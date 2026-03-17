@@ -222,7 +222,6 @@
       {% set isBlog = (url and (url | slice(0, 6) == '/news/')) %}
       {% set isAbout = url == '/about/' %}
       {% set isUses = url == '/uses/' %}
-      {% set isNow = url == '/now/' %}
       {% set isContact = url == '/contact/' %}
       <ul class="flex flex-col md:flex-row text-base md:text-sm space-y-3 md:space-y-0 md:space-x-6">
         <li>
@@ -235,15 +234,11 @@
         </li>
         <li>
           <a href="/about/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isAbout %}underline font-semibold{% endif %}"
-             {% if isAbout %}aria-current="page"{% endif %}>👋 About</a>
+             {% if isAbout %}aria-current="page"{% endif %}>ℹ️ Club Info</a>
         </li>
         <li>
           <a href="/uses/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isUses %}underline font-semibold{% endif %}"
-             {% if isUses %}aria-current="page"{% endif %}>🛠️ Uses</a>
-        </li>
-        <li>
-          <a href="/now/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isNow %}underline font-semibold{% endif %}"
-             {% if isNow %}aria-current="page"{% endif %}>📍 Now</a>
+             {% if isUses %}aria-current="page"{% endif %}>📜 OCSS History</a>
         </li>
         <li>
           <a href="/contact/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isContact %}underline font-semibold{% endif %}"

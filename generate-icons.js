@@ -32,10 +32,10 @@ async function generateIcons() {
             .resize(180, 180, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
             .toFile(path.join(outputDir, 'apple-touch-icon.png'));
             
-        console.log('Generating OG default image...');
+        console.log('Generating favicon.ico...');
         await sharp(sourceImagePath)
-            .resize(1200, 630, { fit: 'contain', background: { r: 255, g: 255, b: 255, alpha: 1 } })
-            .toFile(path.join(outputDir, 'og-default.png'));
+            .resize(32, 32, { fit: 'contain', background: { r: 0, g: 0, b: 0, alpha: 0 } })
+            .toFile(path.join(__dirname, 'src', 'favicon.ico'));
 
         console.log('All icons generated successfully!');
     } catch (err) {

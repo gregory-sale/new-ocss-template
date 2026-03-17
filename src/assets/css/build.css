@@ -827,6 +827,10 @@ a:hover:not(.nav-item) {
   height: 2rem;
 }
 
+.h-36 {
+  height: 9rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -855,12 +859,12 @@ a:hover:not(.nav-item) {
   width: 16rem;
 }
 
-.w-full {
-  width: 100%;
-}
-
 .w-auto {
   width: auto;
+}
+
+.w-full {
+  width: 100%;
 }
 
 .min-w-0 {
