@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford Take Varsity Yachting March 2018"
+title: "Oxford Take Varsity Yachting"
 date: 2018-04-02
 tags: ["News Archive", "export"]
 ---

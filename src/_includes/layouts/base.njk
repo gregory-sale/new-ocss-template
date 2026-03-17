@@ -154,7 +154,7 @@
 
   {# BlogPosting for content pages (#blog, #notes, #poetry, #journal) #}
   {% set url = page.url or '/' %}
-  {% set isPostLike = (url | slice(0,6) == '/blog/' ) or (url | slice(0,7) == '/notes/' ) or (url | slice(0,8) == '/poetry/' ) or (url | slice(0,9) == '/journal/' ) %}
+  {% set isPostLike = (url | slice(0,6) == '/news/' ) or (url | slice(0,6) == '/blog/' ) or (url | slice(0,7) == '/notes/' ) or (url | slice(0,8) == '/poetry/' ) or (url | slice(0,9) == '/journal/' ) %}
   {% if isPostLike %}
   <script type="application/ld+json">
   {
@@ -191,7 +191,10 @@
         <span class="bar-2 block w-5 h-0.5 bg-gray-700 dark:bg-gray-200 mb-1 transition-opacity"></span>
         <span class="bar-3 block w-5 h-0.5 bg-gray-700 dark:bg-gray-200 transition-transform"></span>
       </button>
-      <a class="text-lg font-semibold" href="/">{{ site.name }}</a>
+      <a class="flex items-center gap-2 text-lg font-semibold" href="/">
+        <img src="/assets/logo.png" alt="{{ site.name }} Logo" class="h-8 w-auto object-contain" />
+        {{ site.name }}
+      </a>
       <form class="ml-auto hidden sm:block" role="search" aria-label="Site" action="/search/" method="get">
         <label class="sr-only" for="q">Search</label>
         <input id="q" name="q" type="search" placeholder="Search…" class="px-3 py-2 border rounded w-64" />
@@ -216,7 +219,7 @@
     <div id="primary-nav" class="container mx-auto px-4 py-2 hidden md:block">
       {% set url = page.url or '/' %}
       {% set isHome = url == '/' %}
-      {% set isBlog = (url and (url | slice(0, 6) == '/blog/')) %}
+      {% set isBlog = (url and (url | slice(0, 6) == '/news/')) %}
       {% set isAbout = url == '/about/' %}
       {% set isUses = url == '/uses/' %}
       {% set isNow = url == '/now/' %}
@@ -227,8 +230,8 @@
              {% if isHome %}aria-current="page"{% endif %}>🏠 Home</a>
         </li>
         <li>
-          <a href="/blog/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isBlog %}underline font-semibold{% endif %}"
-             {% if isBlog %}aria-current="page"{% endif %}>✍️ Blog</a>
+          <a href="/news/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isBlog %}underline font-semibold{% endif %}"
+             {% if isBlog %}aria-current="page"{% endif %}>📰 News</a>
         </li>
         <li>
           <a href="/about/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isAbout %}underline font-semibold{% endif %}"

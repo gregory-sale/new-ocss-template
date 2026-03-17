@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society With The Leaders At Wilson 70 Trophy 2019 May 2019"
+title: "Society With The Leaders At Wilson 70 Trophy 2019"
 date: 2019-05-11
 tags: ["News Archive", "export"]
 ---

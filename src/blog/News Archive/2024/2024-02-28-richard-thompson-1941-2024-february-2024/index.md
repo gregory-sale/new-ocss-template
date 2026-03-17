@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Richard Thompson 1941 2024 February 2024"
+title: "Richard Thompson 1941 2024"
 date: 2024-02-28
 tags: ["News Archive", "export"]
 ---

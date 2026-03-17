@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "OCSS Finish 4th At 2022 Wilson Trophy May 2022"
+title: "OCSS Finish 4th At 2022 Wilson Trophy"
 date: 2022-05-09
 tags: ["News Archive", "export"]
 ---

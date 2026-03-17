@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society Take Silver At 2020 Winter Warmer January 2020"
+title: "Society Take Silver At 2020 Winter Warmer"
 date: 2020-01-26
 tags: ["News Archive", "export"]
 ---

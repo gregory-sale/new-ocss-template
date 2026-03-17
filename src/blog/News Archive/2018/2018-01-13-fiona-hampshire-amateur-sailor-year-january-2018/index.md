@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Fiona Hampshire Amateur Sailor Year January 2018"
+title: "Fiona Hampshire Amateur Sailor Year"
 date: 2018-01-13
 tags: ["News Archive", "export"]
 ---

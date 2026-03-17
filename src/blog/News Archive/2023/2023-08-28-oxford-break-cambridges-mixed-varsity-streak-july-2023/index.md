@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford Break Cambridges Mixed Varsity Streak July 2023"
+title: "Oxford Break Cambridges Mixed Varsity Streak"
 date: 2023-08-28
 tags: ["News Archive", "export"]
 ---

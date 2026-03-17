@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Patrick Bird In Scottish Islands Peaks Race May 2019"
+title: "Patrick Bird In Scottish Islands Peaks Race"
 date: 2019-05-24
 tags: ["News Archive", "export"]
 ---

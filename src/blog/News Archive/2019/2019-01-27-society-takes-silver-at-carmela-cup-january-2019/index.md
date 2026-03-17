@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society Takes Silver At Carmela Cup January 2019"
+title: "Society Takes Silver At Carmela Cup"
 date: 2019-01-27
 tags: ["News Archive", "export"]
 ---

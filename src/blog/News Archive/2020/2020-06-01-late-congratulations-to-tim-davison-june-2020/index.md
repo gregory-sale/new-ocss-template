@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Late Congratulations To Tim Davison June 2020"
+title: "Late Congratulations To Tim Davison"
 date: 2020-06-01
 tags: ["News Archive", "export"]
 ---

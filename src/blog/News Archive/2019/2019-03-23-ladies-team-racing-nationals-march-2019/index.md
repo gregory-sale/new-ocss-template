@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Ladies Team Racing Nationals March 2019"
+title: "Ladies Team Racing Nationals"
 date: 2019-03-23
 tags: ["News Archive", "export"]
 ---

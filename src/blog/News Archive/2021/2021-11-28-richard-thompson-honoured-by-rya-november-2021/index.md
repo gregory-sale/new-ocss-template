@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Richard Thompson Honoured By Rya November 2021"
+title: "Richard Thompson Honoured By Rya"
 date: 2021-11-28
 tags: ["News Archive", "export"]
 ---

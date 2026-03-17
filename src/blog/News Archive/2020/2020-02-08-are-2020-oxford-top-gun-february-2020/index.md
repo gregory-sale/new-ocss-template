@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Southampton are 2020 Oxford Top Gun February 2020"
+title: "Southampton are 2020 Oxford Top Gun"
 date: 2020-02-08
 tags: ["News Archive", "export"]
 ---

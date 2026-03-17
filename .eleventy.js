@@ -109,6 +109,10 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi
       .getFilteredByGlob("src/blog/**/*.md")
+      .filter((item) => {
+        const tags = (item.data && item.data.tags) || [];
+        return tags.includes("News") || tags.includes("News Archive") || tags.includes("Newsletter");
+      })
       .sort((a, b) => (a.date > b.date ? -1 : 1));
   });
 

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Snow Curtails Uktra Team Racing Championships March 2018"
+title: "Snow Curtails Uktra Team Racing Championships"
 date: 2018-03-18
 tags: ["News Archive", "export"]
 ---

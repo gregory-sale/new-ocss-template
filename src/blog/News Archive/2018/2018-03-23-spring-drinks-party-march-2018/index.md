@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Spring Drinks Party March 2018"
+title: "Spring Drinks Party"
 date: 2018-03-23
 tags: ["News Archive", "export"]
 ---

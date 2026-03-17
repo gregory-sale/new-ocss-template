@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Jeremy Atkins Orchestrates Draycotes 50th Anniversary August 2019"
+title: "Jeremy Atkins Orchestrates Draycotes 50th Anniversary"
 date: 2019-08-02
 tags: ["News Archive", "export"]
 ---

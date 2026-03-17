@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Nbyc Win Again After Covid Hiatus September 2022"
+title: "Nbyc Win Again After Covid Hiatus"
 date: 2022-09-11
 tags: ["News Archive", "export"]
 ---

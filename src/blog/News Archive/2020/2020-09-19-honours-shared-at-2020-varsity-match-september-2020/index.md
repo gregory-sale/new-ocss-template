@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Honours Shared At 2020 Varsity Match September 2020"
+title: "Honours Shared At 2020 Varsity Match"
 date: 2020-09-19
 tags: ["News Archive", "export"]
 ---

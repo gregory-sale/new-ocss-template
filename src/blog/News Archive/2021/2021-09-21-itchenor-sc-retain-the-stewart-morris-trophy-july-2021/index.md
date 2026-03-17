@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Itchenor Sc Retain The Stewart Morris Trophy July 2021"
+title: "Itchenor Sc Retain The Stewart Morris Trophy"
 date: 2021-09-21
 tags: ["News Archive", "export"]
 ---

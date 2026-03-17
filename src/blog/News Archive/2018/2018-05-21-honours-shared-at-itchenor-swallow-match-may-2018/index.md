@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Honours Shared At Itchenor Swallow Match May 2018"
+title: "Honours Shared At Itchenor Swallow Match"
 date: 2018-05-21
 tags: ["News Archive", "export"]
 ---

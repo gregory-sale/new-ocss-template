@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society Wins At Wroxham September 2018"
+title: "Society Wins At Wroxham"
 date: 2018-09-01
 tags: ["News Archive", "export"]
 ---

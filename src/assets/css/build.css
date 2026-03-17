@@ -823,6 +823,10 @@ a:hover:not(.nav-item) {
   height: 1rem;
 }
 
+.h-8 {
+  height: 2rem;
+}
+
 .min-h-screen {
   min-height: 100vh;
 }
@@ -853,6 +857,10 @@ a:hover:not(.nav-item) {
 
 .w-full {
   width: 100%;
+}
+
+.w-auto {
+  width: auto;
 }
 
 .min-w-0 {
@@ -1250,6 +1258,11 @@ a:hover:not(.nav-item) {
 
 .to-pink-100 {
   --tw-gradient-to: #fce7f3 var(--tw-gradient-to-position);
+}
+
+.object-contain {
+  -o-object-fit: contain;
+     object-fit: contain;
 }
 
 .p-2 {

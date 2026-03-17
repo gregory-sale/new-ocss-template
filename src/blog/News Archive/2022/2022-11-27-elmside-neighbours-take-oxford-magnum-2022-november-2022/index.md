@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Elmside Neighbours Take Oxford Magnum 2022 November 2022"
+title: "Elmside Neighbours Take Oxford Magnum 2022"
 date: 2022-11-27
 tags: ["News Archive", "export"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Graham Julia Bailey Win Edinburgh Cup Yet Again July 2018"
+title: "Graham Julia Bailey Win Edinburgh Cup Yet Again"
 date: 2018-07-08
 tags: ["News Archive", "export"]
 ---

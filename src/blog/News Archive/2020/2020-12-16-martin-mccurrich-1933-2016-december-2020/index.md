@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Martin Mccurrich 1933 2016 December 2020"
+title: "Martin Mccurrich 1933 2016"
 date: 2020-12-16
 tags: ["News Archive", "export"]
 ---

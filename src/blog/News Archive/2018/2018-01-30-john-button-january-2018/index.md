@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "John Button January 2018"
+title: "John Button"
 date: 2018-01-30
 tags: ["News Archive", "export"]
 ---

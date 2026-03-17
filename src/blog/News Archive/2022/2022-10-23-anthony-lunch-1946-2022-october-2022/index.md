@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Anthony Lunch 1946 2022 October 2022"
+title: "Anthony Lunch 1946 2022"
 date: 2022-10-23
 tags: ["News Archive", "export"]
 ---

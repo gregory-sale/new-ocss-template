@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford Take All But One At Royal Harwich Varsity Matches July 2022"
+title: "Oxford Take All But One At Royal Harwich Varsity Matches"
 date: 2022-07-15
 tags: ["News Archive", "export"]
 ---

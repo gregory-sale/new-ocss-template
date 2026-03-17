@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Cambridge Retain Varsity Match 2019 Trophies July 2019"
+title: "Cambridge Retain Varsity Match 2019 Trophies"
 date: 2019-07-06
 tags: ["News Archive", "export"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Bruce Burnett March 2022"
+title: "Bruce Burnett"
 date: 2022-03-12
 tags: ["News Archive", "export"]
 ---

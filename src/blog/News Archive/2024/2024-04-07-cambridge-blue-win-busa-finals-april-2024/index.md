@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Cambridge Blue Win Busa Finals April 2024"
+title: "Cambridge Blue Win Busa Finals"
 date: 2024-04-07
 tags: ["News Archive", "export"]
 ---

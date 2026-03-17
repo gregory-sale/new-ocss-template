@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Archie Massey Takes 2020 Int 14 Worlds January 2020"
+title: "Archie Massey Takes 2020 Int 14 Worlds"
 date: 2020-01-10
 tags: ["News Archive", "export"]
 ---

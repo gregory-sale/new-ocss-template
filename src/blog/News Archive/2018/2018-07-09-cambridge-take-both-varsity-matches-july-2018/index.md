@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Cambridge Take Both Varsity Matches July 2018"
+title: "Cambridge Take Both Varsity Matches"
 date: 2018-07-09
 tags: ["News Archive", "export"]
 ---

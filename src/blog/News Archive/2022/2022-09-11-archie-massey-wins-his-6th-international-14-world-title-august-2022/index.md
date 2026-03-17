@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Archie Massey Wins His 6th International 14 World Title August 2022"
+title: "Archie Massey Wins His 6th International 14 World Title"
 date: 2022-09-11
 tags: ["News Archive", "export"]
 ---

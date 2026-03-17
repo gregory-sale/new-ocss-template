@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford Make Clean Sweep Of Windsurfing Varsity Matches May 2018"
+title: "Oxford Make Clean Sweep Of Windsurfing Varsity Matches"
 date: 2018-05-05
 tags: ["News Archive", "export"]
 ---

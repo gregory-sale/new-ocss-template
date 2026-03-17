@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Karen Thomas 1993 2022 October 2022"
+title: "Karen Thomas 1993 2022"
 date: 2022-10-22
 tags: ["News Archive", "export"]
 ---

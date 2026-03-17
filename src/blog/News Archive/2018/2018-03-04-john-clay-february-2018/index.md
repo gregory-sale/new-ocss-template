@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "John Clay February 2018"
+title: "John Clay"
 date: 2018-03-04
 tags: ["News Archive", "export"]
 ---

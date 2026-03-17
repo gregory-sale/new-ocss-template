@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Marks August 2018"
+title: "Marks"
 date: 2018-08-08
 tags: ["News Archive", "export"]
 ---

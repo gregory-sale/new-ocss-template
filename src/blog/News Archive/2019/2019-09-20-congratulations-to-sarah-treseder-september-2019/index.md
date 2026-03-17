@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Congratulations To Sarah Treseder September 2019"
+title: "Congratulations To Sarah Treseder"
 date: 2019-09-20
 tags: ["News Archive", "export"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Cambridge Mid 10s Take 2022 Generations Event October 2022"
+title: "Cambridge Mid 10s Take 2022 Generations Event"
 date: 2022-10-03
 tags: ["News Archive", "export"]
 ---

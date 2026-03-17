@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Anthony Lunch Receives Rya Award November 2018"
+title: "Anthony Lunch Receives Rya Award"
 date: 2018-11-16
 tags: ["News Archive", "export"]
 ---

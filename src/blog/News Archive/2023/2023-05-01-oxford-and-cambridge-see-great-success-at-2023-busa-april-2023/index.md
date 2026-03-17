@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford And Cambridge See Great Success At 2023 Busa April 2023"
+title: "Oxford And Cambridge See Great Success At 2023 Busa"
 date: 2023-05-01
 tags: ["News Archive", "export"]
 ---

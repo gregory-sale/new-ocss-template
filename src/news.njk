@@ -4,12 +4,12 @@ pagination:
   data: collections.posts
   size: 10
   alias: posts
-permalink: "/blog/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}"
-title: Blog
+permalink: "/news/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}"
+title: News
 ---
 <div class="h-feed">
-  <h1 class="p-name text-2xl font-bold mb-6">Blog</h1>
-  <a class="u-url hidden" href="{{ site.url }}/blog/"></a>
+  <h1 class="p-name text-2xl font-bold mb-6">News</h1>
+  <a class="u-url hidden" href="{{ site.url }}/news/"></a>
 
   <div class="space-y-8">
     {% for post in posts %}

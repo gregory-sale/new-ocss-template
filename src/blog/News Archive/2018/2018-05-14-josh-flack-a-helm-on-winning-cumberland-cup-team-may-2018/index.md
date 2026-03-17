@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Josh Flack A Helm On Winning Cumberland Cup Team May 2018"
+title: "Josh Flack A Helm On Winning Cumberland Cup Team"
 date: 2018-05-14
 tags: ["News Archive", "export"]
 ---

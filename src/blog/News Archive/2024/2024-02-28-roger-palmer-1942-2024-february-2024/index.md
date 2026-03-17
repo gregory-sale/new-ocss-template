@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Roger Palmer 1942 2024 February 2024"
+title: "Roger Palmer 1942 2024"
 date: 2024-02-28
 tags: ["News Archive", "export"]
 ---

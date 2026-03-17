@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Robbie King Named For Busa American Tour 2019 July 2019"
+title: "Robbie King Named For Busa American Tour 2019"
 date: 2019-07-10
 tags: ["News Archive", "export"]
 ---

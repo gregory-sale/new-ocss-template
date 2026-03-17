@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford Mid 10s Win Balmy Generations 2023 September 2023"
+title: "Oxford Mid 10s Win Balmy Generations 2023"
 date: 2023-10-08
 tags: ["News Archive", "export"]
 ---

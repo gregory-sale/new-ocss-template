@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society Team Win Lochan Cup June 2024"
+title: "Society Team Win Lochan Cup"
 date: 2024-06-22
 tags: ["News Archive", "export"]
 ---

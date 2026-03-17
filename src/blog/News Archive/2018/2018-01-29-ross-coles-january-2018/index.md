@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Ross Coles January 2018"
+title: "Ross Coles"
 date: 2018-01-29
 tags: ["News Archive", "export"]
 ---

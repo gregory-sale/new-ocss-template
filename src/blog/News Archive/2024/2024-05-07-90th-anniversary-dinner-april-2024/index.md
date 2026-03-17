@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "90th Anniversary Dinner April 2024"
+title: "90th Anniversary Dinner"
 date: 2024-05-07
 tags: ["News Archive", "export"]
 ---

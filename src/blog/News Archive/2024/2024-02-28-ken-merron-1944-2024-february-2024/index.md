@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Ken Merron 1944 2024 February 2024"
+title: "Ken Merron 1944 2024"
 date: 2024-02-28
 tags: ["News Archive", "export"]
 ---

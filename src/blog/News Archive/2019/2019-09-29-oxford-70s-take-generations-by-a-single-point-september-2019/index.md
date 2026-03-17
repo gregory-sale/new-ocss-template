@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford 70s Take Generations By A Single Point September 2019"
+title: "Oxford 70s Take Generations By A Single Point"
 date: 2019-09-29
 tags: ["News Archive", "export"]
 ---

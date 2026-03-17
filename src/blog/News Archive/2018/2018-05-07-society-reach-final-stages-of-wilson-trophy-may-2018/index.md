@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society Reach Final Stages Of Wilson Trophy May 2018"
+title: "Society Reach Final Stages Of Wilson Trophy"
 date: 2018-05-07
 tags: ["News Archive", "export"]
 ---

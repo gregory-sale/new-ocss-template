@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society Exodus Victorious In Oxford Magnum November 2018"
+title: "Society Exodus Victorious In Oxford Magnum"
 date: 2018-11-04
 tags: ["News Archive", "export"]
 ---

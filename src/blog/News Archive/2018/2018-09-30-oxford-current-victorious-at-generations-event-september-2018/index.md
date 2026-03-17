@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford Current Victorious At Generations Event September 2018"
+title: "Oxford Current Victorious At Generations Event"
 date: 2018-09-30
 tags: ["News Archive", "export"]
 ---

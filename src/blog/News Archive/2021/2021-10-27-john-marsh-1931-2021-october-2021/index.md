@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "John Marsh 1931 2021 October 2021"
+title: "John Marsh 1931 2021"
 date: 2021-10-27
 tags: ["News Archive", "export"]
 ---

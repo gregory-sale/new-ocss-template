@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "George Edmond July 2019"
+title: "George Edmond"
 date: 2019-07-27
 tags: ["News Archive", "export"]
 ---

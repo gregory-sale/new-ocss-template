@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Exeter Blue Win The 2023 Cam Cup March 2023"
+title: "Exeter Blue Win The 2023 Cam Cup"
 date: 2023-03-16
 tags: ["News Archive", "export"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Cambridge Take Yachting Varsity 2019 April 2019"
+title: "Cambridge Take Yachting Varsity 2019"
 date: 2019-04-14
 tags: ["News Archive", "export"]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford And Cambridge Share Vintage 2021 Generations Event And 2021 Varsity Match Results October 2021"
+title: "Oxford And Cambridge Share Vintage 2021 Generations Event And 2021 Varsity Match Results"
 date: 2021-10-03
 tags: ["News Archive", "export"]
 ---

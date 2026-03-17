@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society Finish Runners Up At Wessex Warmer January 2019"
+title: "Society Finish Runners Up At Wessex Warmer"
 date: 2019-01-27
 tags: ["News Archive", "export"]
 ---

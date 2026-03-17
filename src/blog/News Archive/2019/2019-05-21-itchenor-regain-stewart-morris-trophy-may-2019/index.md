@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Itchenor Regain Stewart Morris Trophy May 2019"
+title: "Itchenor Regain Stewart Morris Trophy"
 date: 2019-05-21
 tags: ["News Archive", "export"]
 ---

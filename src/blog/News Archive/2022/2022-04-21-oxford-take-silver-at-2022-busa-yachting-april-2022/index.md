@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Oxford Take Silver At 2022 Busa Yachting April 2022"
+title: "Oxford Take Silver At 2022 Busa Yachting"
 date: 2022-04-21
 tags: ["News Archive", "export"]
 ---
