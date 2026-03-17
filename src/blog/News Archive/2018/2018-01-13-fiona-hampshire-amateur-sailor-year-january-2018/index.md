@@ -9,7 +9,4 @@ Congratulations to Fiona Hampshire (St Catharines 2009) on becoming Amateur Sail
 
 ![Photo of Fiona with her trophy for Amateur Sailor of year 2018](/assets/images/news-archive/2018-01-13-Fiona.jpg)
 
-*
-Fiona with her trophy ©Sportography.tv (Sportography Ltd)
-
-*
+*Fiona with her trophy ©Sportography.tv (Sportography Ltd)*

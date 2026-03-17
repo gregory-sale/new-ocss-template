@@ -11,21 +11,12 @@ A full report will be found on the [BUSA website](https://busa.co.uk/news/bucs-y
 
 ![Photo of Oxford Blue team for 2022 BUSA Yachting](/assets/images/news-archive/2022-04-21-OxfBlue.jpg)
 
-*
-Oxford Blue: Alexander MacAulay, Heydon Wardell-Burrus, Annika Möslein, Ellen Morley, Baptiste Vasey, Huw Edwards, John-Joseph Marie (Rear Commodore Yachting), Rory Fleminger (Yachting Race Captain)
-
-*
+*Oxford Blue: Alexander MacAulay, Heydon Wardell-Burrus, Annika Möslein, Ellen Morley, Baptiste Vasey, Huw Edwards, John-Joseph Marie (Rear Commodore Yachting), Rory Fleminger (Yachting Race Captain)*
 
 ![Oxford White team photo for 2022 BUSA Yachting](/assets/images/news-archive/2022-04-21-OxfWhite.jpg)
 
-*
-Oxford White. Back: Ryan Ghent, Lucas Hooper, Rachel Finlayson, Lauren Mackenzie. Front: Abi Lister (Treasurer), Maria Prange-Barczynska, Fraser Goldsworth (Vice Commodore), Andrew Sturt.
-
-*
+*Oxford White. Back: Ryan Ghent, Lucas Hooper, Rachel Finlayson, Lauren Mackenzie. Front: Abi Lister (Treasurer), Maria Prange-Barczynska, Fraser Goldsworth (Vice Commodore), Andrew Sturt.*
 
 ![Photo of Oxford Blue and White for 2022 BUSA Yachting](/assets/images/news-archive/2022-04-21-OxfAll.jpg)
 
-*
-Both Oxford teams all dressed up for the black tie dinner at RORC Cowes
-
-*
+*Both Oxford teams all dressed up for the black tie dinner at RORC Cowes*

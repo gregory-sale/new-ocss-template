@@ -15,32 +15,62 @@ The event was notable for many well-known faces sailing under new team names. Co
 
 Explore the gallery of photographs below by clicking on the thumbnail to display the full-size photo.   Click outside of the displayed photo or on the top-right 'X' to close it.   Click on the photo to display the next in the gallery.   Use ‘Leave a Reply’ at the bottom of this page to make a comment.
 
-[![](/assets/images/news-archive/2022-11-27-01ElmsideNeighbours.jpg)Winners Elmside Neighbours](https://www.ocss.org.uk/wp-content/uploads/2022/11/01ElmsideNeighbours.jpg)
+![](/assets/images/news-archive/2022-11-27-01ElmsideNeighbours.jpg)
 
-[![](/assets/images/news-archive/2022-11-27-02RTWhite.jpg)Sunday Leaders Royal Thames White](https://www.ocss.org.uk/wp-content/uploads/2022/11/02RTWhite.jpg)
+*Winners Elmside Neighbours*
 
-[![](/assets/images/news-archive/2022-11-27-03BristolRed.jpg)Bristol Red](https://www.ocss.org.uk/wp-content/uploads/2022/11/03BristolRed.jpg)
+![](/assets/images/news-archive/2022-11-27-02RTWhite.jpg)
 
-[![](/assets/images/news-archive/2022-11-27-04CambBlue.jpg)Cambridge Blue](https://www.ocss.org.uk/wp-content/uploads/2022/11/04CambBlue.jpg)
+*Sunday Leaders Royal Thames White*
 
-[![](/assets/images/news-archive/2022-11-27-05CambRed.jpg)Cambridge Red](https://www.ocss.org.uk/wp-content/uploads/2022/11/05CambRed.jpg)
+![](/assets/images/news-archive/2022-11-27-03BristolRed.jpg)
 
-[![](/assets/images/news-archive/2022-11-27-06Castaways.jpg)Castaways](https://www.ocss.org.uk/wp-content/uploads/2022/11/06Castaways.jpg)
+*Bristol Red*
 
-[![](/assets/images/news-archive/2022-11-27-07Cindies.jpg)Cindies](https://www.ocss.org.uk/wp-content/uploads/2022/11/07Cindies.jpg)
+![](/assets/images/news-archive/2022-11-27-04CambBlue.jpg)
 
-[![](/assets/images/news-archive/2022-11-27-08CumberlandSausages.jpg)Cumberland Sausages](https://www.ocss.org.uk/wp-content/uploads/2022/11/08CumberlandSausages.jpg)
+*Cambridge Blue*
 
-[![](/assets/images/news-archive/2022-11-27-09DiscountFoieGras.jpg)Discount Foie Gras](https://www.ocss.org.uk/wp-content/uploads/2022/11/09DiscountFoieGras.jpg)
+![](/assets/images/news-archive/2022-11-27-05CambRed.jpg)
 
-[![](/assets/images/news-archive/2022-11-27-10ExeterBlue.jpg)Exeter Blue](https://www.ocss.org.uk/wp-content/uploads/2022/11/10ExeterBlue.jpg)
+*Cambridge Red*
 
-[![](/assets/images/news-archive/2022-11-27-11ExeterBlack.jpg)Exeter Black](https://www.ocss.org.uk/wp-content/uploads/2022/11/11ExeterBlack.jpg)
+![](/assets/images/news-archive/2022-11-27-06Castaways.jpg)
 
-[![](/assets/images/news-archive/2022-11-27-12FreddysFriends.jpg)Freddy's Friends](https://www.ocss.org.uk/wp-content/uploads/2022/11/12FreddysFriends.jpg)
+*Castaways*
 
-[![](/assets/images/news-archive/2022-11-27-13OxfordPrawns.jpg)Oxford Prawns](https://www.ocss.org.uk/wp-content/uploads/2022/11/13OxfordPrawns.jpg)
+![](/assets/images/news-archive/2022-11-27-07Cindies.jpg)
 
-[![](/assets/images/news-archive/2022-11-27-14SUSA.jpg)SUSA](https://www.ocss.org.uk/wp-content/uploads/2022/11/14SUSA.jpg)
+*Cindies*
 
-[![](/assets/images/news-archive/2022-11-27-15UCL.jpg)UCL Purple](https://www.ocss.org.uk/wp-content/uploads/2022/11/15UCL.jpg)
+![](/assets/images/news-archive/2022-11-27-08CumberlandSausages.jpg)
+
+*Cumberland Sausages*
+
+![](/assets/images/news-archive/2022-11-27-09DiscountFoieGras.jpg)
+
+*Discount Foie Gras*
+
+![](/assets/images/news-archive/2022-11-27-10ExeterBlue.jpg)
+
+*Exeter Blue*
+
+![](/assets/images/news-archive/2022-11-27-11ExeterBlack.jpg)
+
+*Exeter Black*
+
+![](/assets/images/news-archive/2022-11-27-12FreddysFriends.jpg)
+
+*Freddy's Friends*
+
+![](/assets/images/news-archive/2022-11-27-13OxfordPrawns.jpg)
+
+*Oxford Prawns*
+
+![](/assets/images/news-archive/2022-11-27-14SUSA.jpg)
+
+*SUSA*
+
+![](/assets/images/news-archive/2022-11-27-15UCL.jpg)
+
+*UCL Purple*

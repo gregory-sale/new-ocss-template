@@ -11,10 +11,7 @@ The Wilson Trophy maintains its reputation as being one of the best team racing 
 
 ![Photo of Society team for Wilson Trophy 2018](/assets/images/news-archive/2018-05-07-SocietyWilson.jpg)
 
-*
-Lilly Carlisle, Fiona Hampshire, Josh Flack, Francine Counsell, Arthur Henderson, Honor Fell
-
-*
+*Lilly Carlisle, Fiona Hampshire, Josh Flack, Francine Counsell, Arthur Henderson, Honor Fell*
 
 **Society Team for Wilson Trophy 2018:**  
 Arthur Henderson and Lilly Carlisle  

@@ -15,21 +15,12 @@ Back ashore, the Stewart Morris Trophy was awarded to Itchenor SC over cake and 
 
 ![](/assets/images/news-archive/2022-07-14-22_ISC_Match_1.jpg)
 
-*
-Itchenor (yellow) lead OCSS (blue) up the second beat
-
-*
+*Itchenor (yellow) lead OCSS (blue) up the second beat*
 
 ![](/assets/images/news-archive/2022-07-14-22_ISC_Match_2.jpg)
 
-*
-OCSS sailors and their ISC "minder" smile for the camera
-
-*
+*OCSS sailors and their ISC "minder" smile for the camera*
 
 ![](/assets/images/news-archive/2022-07-14-22_ISC_Match_3.jpg)
 
-*
-All sailors found time for a photo ashore after the Stewart Morris Trophy was awarded to Itchenor SC
-
-*
+*All sailors found time for a photo ashore after the Stewart Morris Trophy was awarded to Itchenor SC*

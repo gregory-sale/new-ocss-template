@@ -1,13 +1,11 @@
 ---
 layout: layouts/post.njk
-title: "Ocss Investment Port Strategy Statement"
+title: "OCSS Investment Port Strategy Statement"
 date: 2024-09-27
-tags: ["News Archive", "export"]
+tags: ["Info", "export"]
 ---
 
-**Investment Strategy Statement**
-
-The principle longer-term objective for investments is income generation with medium volatility risk.
+**Investment Strategy Statement**The principle longer-term objective for investments is income generation with medium volatility risk.
 
 Diversification is a high priority, across both asset classes and geographies.
 
@@ -23,9 +21,7 @@ The total number of collective funds invested should be kept to a minimum in ord
 
 Any cash accumulated within the investment account should be paid away for club expenses, or reinvested periodically.
 
-Updated: February 2024
-
-**Port Strategy Statement**
+Updated: February 2024**Port Strategy Statement**
 
 The aim is to ensure that the Club holds sufficient vintage port to be drunk at the Club’s annual dinners for the next 10-20 years.
 

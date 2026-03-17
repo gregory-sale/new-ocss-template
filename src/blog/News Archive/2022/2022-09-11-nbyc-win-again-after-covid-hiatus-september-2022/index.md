@@ -17,10 +17,18 @@ Event Photos (taken by sailors)
 
 Explore the gallery of photographs below by clicking on the thumbnail to display the full-size photo. Click outside of the displayed photo or on the top-right 'X' to close it. Click on the photo to display the next in the gallery. Use ‘Leave a Reply’ at the bottom of this page to make a comment.
 
-[![](/assets/images/news-archive/2022-09-11-Wroxham1.jpg)The morning view from the shore](https://www.ocss.org.uk/wp-content/uploads/2022/09/Wroxham1.jpg)
+![](/assets/images/news-archive/2022-09-11-Wroxham1.jpg)
 
-[![](/assets/images/news-archive/2022-09-11-Wroxham2.jpg)OCSS sailors familiarising themselves with the YBODs](https://www.ocss.org.uk/wp-content/uploads/2022/09/Wroxham2.jpg)
+*The morning view from the shore*
 
-[![](/assets/images/news-archive/2022-09-11-Wroxham3.jpg)Sailors returning to the start line](https://www.ocss.org.uk/wp-content/uploads/2022/09/Wroxham3.jpg)
+![](/assets/images/news-archive/2022-09-11-Wroxham2.jpg)
 
-[![](/assets/images/news-archive/2022-09-11-Wroxham4.jpg)The NBYC captain with the Stewart Morris trophy](https://www.ocss.org.uk/wp-content/uploads/2022/09/Wroxham4.jpg)
+*OCSS sailors familiarising themselves with the YBODs*
+
+![](/assets/images/news-archive/2022-09-11-Wroxham3.jpg)
+
+*Sailors returning to the start line*
+
+![](/assets/images/news-archive/2022-09-11-Wroxham4.jpg)
+
+*The NBYC captain with the Stewart Morris trophy*

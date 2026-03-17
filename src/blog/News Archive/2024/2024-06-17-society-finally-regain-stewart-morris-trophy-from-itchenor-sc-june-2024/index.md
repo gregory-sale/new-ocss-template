@@ -17,7 +17,4 @@ As always the OCSS team would like to thank everyone at Itchenor for organising 
 
 ![](/assets/images/news-archive/2024-06-17-Stewart-Morris-Trophy-Team-2024-i.jpeg)
 
-*
-The OCSS team pose with the Stewart Morris Trophy
-
-*
+*The OCSS team pose with the Stewart Morris Trophy*

@@ -9,24 +9,15 @@ Cambridge won the Yachting Varsity 2019 match held as part of the Sunsail F40 we
 
 ![](/assets/images/news-archive/2019-04-14-YachtVarsityTeam.jpg)
 
-*
-The victorious team with the Queenborough Cup: Freddie Scott, Karen Thomas, Holly MacAskill, Garrett Bray, Chris Cantillo, Laurence Cochrane, Niels van Fraassen, Anna Prescott
-
-*
+*The victorious team with the Queenborough Cup: Freddie Scott, Karen Thomas, Holly MacAskill, Garrett Bray, Chris Cantillo, Laurence Cochrane, Niels van Fraassen, Anna Prescott*
 
 ![Boat sailing photo for Yachting Varsity 2019](/assets/images/news-archive/2019-04-14-YachtAfloat.jpg)
 
-*
-A life on the ocean wave ...
-
-*
+*A life on the ocean wave ...*
 
 ![Sailor photo for Yachting Varsity 2019](/assets/images/news-archive/2019-04-14-YachtCelebrate.jpg)
 
-*
-Freddie Scott celebrates victory
-
-*
+*Freddie Scott celebrates victory*
 
 Oxford
 Cambridge

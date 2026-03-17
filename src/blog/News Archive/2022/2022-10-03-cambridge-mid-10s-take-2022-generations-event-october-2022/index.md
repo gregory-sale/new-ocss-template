@@ -17,24 +17,46 @@ Explore the gallery of photographs below by clicking on the thumbnail to display
 
 The Cambridge Current 2 photo unfortunately failed to record - submissions are welcome. Also welcome would be a photo of Cambridge Mid 10s holding their Bell Trophy.
 
-[![](/assets/images/news-archive/2022-10-03-01CamMid10.jpg)Winners Cambridge Mid-10s](https://www.ocss.org.uk/wp-content/uploads/2022/10/01CamMid10.jpg)
+![](/assets/images/news-archive/2022-10-03-01CamMid10.jpg)
 
-[![](/assets/images/news-archive/2022-10-03-02Changeover.jpg)Changeover was via RIB](https://www.ocss.org.uk/wp-content/uploads/2022/10/02Changeover.jpg)
+*Winners Cambridge Mid-10s*
 
-[![](/assets/images/news-archive/2022-10-03-03Oxf70.jpg)Oxford 70s](https://www.ocss.org.uk/wp-content/uploads/2022/10/03Oxf70.jpg)
+![](/assets/images/news-archive/2022-10-03-02Changeover.jpg)
 
-[![](/assets/images/news-archive/2022-10-03-04Cam80.jpg)Cambridge 80s](https://www.ocss.org.uk/wp-content/uploads/2022/10/04Cam80.jpg)
+*Changeover was via RIB*
 
-[![](/assets/images/news-archive/2022-10-03-05Oxf90.jpg)Oxford 90s](https://www.ocss.org.uk/wp-content/uploads/2022/10/05Oxf90.jpg)
+![](/assets/images/news-archive/2022-10-03-03Oxf70.jpg)
 
-[![](/assets/images/news-archive/2022-10-03-07OxfL10.jpg)Oxford Late 10s](https://www.ocss.org.uk/wp-content/uploads/2022/10/07OxfL10.jpg)
+*Oxford 70s*
 
-[![](/assets/images/news-archive/2022-10-03-06Cam20.jpg)Cambridge 20s - with a sub!](https://www.ocss.org.uk/wp-content/uploads/2022/10/06Cam20.jpg)
+![](/assets/images/news-archive/2022-10-03-04Cam80.jpg)
 
-[![](/assets/images/news-archive/2022-10-03-08OxfCur.jpg)Oxford Current](https://www.ocss.org.uk/wp-content/uploads/2022/10/08OxfCur.jpg)
+*Cambridge 80s*
 
-[![](/assets/images/news-archive/2022-10-03-09CamCur.jpg)Cambridge Current](https://www.ocss.org.uk/wp-content/uploads/2022/10/09CamCur.jpg)
+![](/assets/images/news-archive/2022-10-03-05Oxf90.jpg)
 
-[![](/assets/images/news-archive/2022-10-03-10Dinner.jpg)Dinner Scene](https://www.ocss.org.uk/wp-content/uploads/2022/10/10Dinner.jpg)
+*Oxford 90s*
 
-[![](/assets/images/news-archive/2022-10-03-11Prize.jpg)Winners prize: The Bell Trophy (presented by West Kirby some years ago) - and a bottle of fine Salcombe gin.](https://www.ocss.org.uk/wp-content/uploads/2022/10/11Prize.jpg)
+![](/assets/images/news-archive/2022-10-03-07OxfL10.jpg)
+
+*Oxford Late 10s*
+
+![](/assets/images/news-archive/2022-10-03-06Cam20.jpg)
+
+*Cambridge 20s - with a sub!*
+
+![](/assets/images/news-archive/2022-10-03-08OxfCur.jpg)
+
+*Oxford Current*
+
+![](/assets/images/news-archive/2022-10-03-09CamCur.jpg)
+
+*Cambridge Current*
+
+![](/assets/images/news-archive/2022-10-03-10Dinner.jpg)
+
+*Dinner Scene*
+
+![](/assets/images/news-archive/2022-10-03-11Prize.jpg)
+
+*Winners prize: The Bell Trophy (presented by West Kirby some years ago) - and a bottle of fine Salcombe gin.*

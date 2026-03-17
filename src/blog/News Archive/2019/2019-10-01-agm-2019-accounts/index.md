@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Agm 2019 Accounts"
 date: 2019-10-01
-tags: ["News Archive", "export"]
+tags: ["export", "Meeting minutes"]
 ---
 
 ### Notes to the Accounts

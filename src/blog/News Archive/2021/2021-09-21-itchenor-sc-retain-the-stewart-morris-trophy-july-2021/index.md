@@ -21,7 +21,4 @@ Teams:
 
 ![Photo of two boats sailing](/assets/images/news-archive/2021-09-21-AnInFight600H.jpg)
 
-*
-A close contest between Itchenor (yellow flag) and Society (blue flag)
-
-*
+*A close contest between Itchenor (yellow flag) and Society (blue flag)*

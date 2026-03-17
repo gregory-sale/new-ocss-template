@@ -19,29 +19,43 @@ A big thank-you to Oxford SC for allowing the event to run in parallel with thei
 
 Explore the gallery of photographs below by clicking on the thumbnail to display the full-size photo.   Click outside of the displayed photo or on the top-right 'X' to close it.   Use ‘Leave a Reply’ at the bottom of this page to make a comment.
 
-[![](/assets/images/news-archive/2020-09-19-01preparations-200x150.jpg)Preparations get under way - cut down rigs were used throughout the day](https://www.ocss.org.uk/wp-content/uploads/2020/10/01preparations.jpg)
+![](/assets/images/news-archive/2020-09-19-01preparations-200x150.jpg)
 
-[![](/assets/images/news-archive/2020-09-19-02s1start-200x150.jpg)Honours even at the start of the first race - open event 1st Strings (Oxf black and Cam red throughout)](https://www.ocss.org.uk/wp-content/uploads/2020/10/02s1start.jpg)
+*Preparations get under way - cut down rigs were used throughout the day*
 
-[![](/assets/images/news-archive/2020-09-19-03s1run-200x150.jpg)Cambridge 1st Strings up in every pair at the start of the first race run - they finished with a winning combination](https://www.ocss.org.uk/wp-content/uploads/2020/10/03s1run.jpg)
+![](/assets/images/news-archive/2020-09-19-02s1start-200x150.jpg)
 
-[![](/assets/images/news-archive/2020-09-19-04s2run-200x150.jpg)Cambridge 2nd Strings look good at the start of the run - but Oxford came through to win](https://www.ocss.org.uk/wp-content/uploads/2020/10/04s2run.jpg)
+*Honours even at the start of the first race - open event 1st Strings (Oxf black and Cam red throughout)*
 
-[![](/assets/images/news-archive/2020-09-19-05wbeat-200x150.jpg)Cambridge Women look good at the end of the first beat of their first race - but Oxford came through to win](https://www.ocss.org.uk/wp-content/uploads/2020/10/05wbeat.jpg)
+![](/assets/images/news-archive/2020-09-19-03s1run-200x150.jpg)
 
-[![](/assets/images/news-archive/2020-09-19-06wrun-200x150.jpg)Oxford Women ahead on the run in their 2nd race](https://www.ocss.org.uk/wp-content/uploads/2020/10/06wrun.jpg)
+*Cambridge 1st Strings up in every pair at the start of the first race run - they finished with a winning combination*
 
-[![](/assets/images/news-archive/2020-09-19-07cam-200x150.jpg)Cambridge with the Open Event Trophy. Front: Juliette Kennedy, Olivia Jacklin, Holly MacAskill, Bethan Matthew, Megan Redhead. Back: Milo Gill-Tyalor, Adam Rathmell, Hugh Tomkins, Robbie King, Ollie Jagger, Freddie Scott, Jamie Webb.](https://www.ocss.org.uk/wp-content/uploads/2020/10/07cam.jpg)
+![](/assets/images/news-archive/2020-09-19-04s2run-200x150.jpg)
 
-[![](/assets/images/news-archive/2020-09-19-08oxf-200x150.jpg)Oxford with the Women's Event Trophy. Front: . Back:](https://www.ocss.org.uk/wp-content/uploads/2020/10/08oxf.jpg)
+*Cambridge 2nd Strings look good at the start of the run - but Oxford came through to win*
+
+![](/assets/images/news-archive/2020-09-19-05wbeat-200x150.jpg)
+
+*Cambridge Women look good at the end of the first beat of their first race - but Oxford came through to win*
+
+![](/assets/images/news-archive/2020-09-19-06wrun-200x150.jpg)
+
+*Oxford Women ahead on the run in their 2nd race*
+
+![](/assets/images/news-archive/2020-09-19-07cam-200x150.jpg)
+
+*Cambridge with the Open Event Trophy. Front: Juliette Kennedy, Olivia Jacklin, Holly MacAskill, Bethan Matthew, Megan Redhead. Back: Milo Gill-Tyalor, Adam Rathmell, Hugh Tomkins, Robbie King, Ollie Jagger, Freddie Scott, Jamie Webb.*
+
+![](/assets/images/news-archive/2020-09-19-08oxf-200x150.jpg)
+
+*Oxford with the Women's Event Trophy. Front: . Back:*
 
 ### Teams at 2020 Varsity Match
 
 ### Oxford
 
-**Open (1st Helms & Crew)**
-**Open (2nd Helms & Crew)**
-**Women** (Helm & Crew)
+**Open (1st Helms & Crew)****Open (2nd Helms & Crew)****Women** (Helm & Crew)
 
 ### Cambridge
 

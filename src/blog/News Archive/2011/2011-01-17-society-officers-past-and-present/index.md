@@ -2,14 +2,10 @@
 layout: layouts/post.njk
 title: "Society Officers Past And Present"
 date: 2011-01-17
-tags: ["News Archive", "export"]
+tags: ["export", "Info"]
 ---
 
-### **Current O&CSS Officers and Committee**
-
-**President:** Jeremy Atkins;   **Hon Secretary:** Greg Sale;   **Hon Treasurer:** Kathryn Twemlow.
-
-**Committee:** Rowena Conway (Oxford Liaison), Ed Grieg-Gran (General Member),  
+### **Current O&CSS Officers and Committee****President:** Jeremy Atkins;   **Hon Secretary:** Greg Sale;   **Hon Treasurer:** Kathryn Twemlow.**Committee:** Rowena Conway (Oxford Liaison), Ed Grieg-Gran (General Member),  
 Tom Low (Investments), Ben Rahemtulla (Generations), Rachel Tilley (Port Administration).
 
 **Committee Advisers:** Anthony Butler (Web). Katie Nurton (Port Selection).

@@ -16,18 +16,34 @@ The AGM and dinner were held in Kellogg College as usual, with the dinner provin
 2019 Generations Photographs
 Explore the gallery of photographs below by clicking on the thumbnail to display the full-size photo.   Click outside of the displayed photo or on the top-right 'X' to close it.   Click on the photo to display the next in the gallery.   Use ‘Leave a Reply’ at the bottom of this page to make a comment.
 
-[![](/assets/images/news-archive/2019-09-29-01briefing-200x150.jpg)A moment of amusement during the briefing session](https://www.ocss.org.uk/wp-content/uploads/2020/10/01briefing.jpg)
+![](/assets/images/news-archive/2019-09-29-01briefing-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-09-29-02start-200x150.jpg)A wild and windy pre-start](https://www.ocss.org.uk/wp-content/uploads/2020/10/02start.jpg)
+*A moment of amusement during the briefing session*
 
-[![](/assets/images/news-archive/2019-09-29-03oxford70-200x150.jpg)Oxford 70s team](https://www.ocss.org.uk/wp-content/uploads/2020/10/03oxford70.jpg)
+![](/assets/images/news-archive/2019-09-29-02start-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-09-29-04dinner1-200x150.jpg)Dinner scene 1](https://www.ocss.org.uk/wp-content/uploads/2020/10/04dinner1.jpg)
+*A wild and windy pre-start*
 
-[![](/assets/images/news-archive/2019-09-29-05dinner2-200x150.jpg)Dinner scene 2](https://www.ocss.org.uk/wp-content/uploads/2020/10/05dinner2.jpg)
+![](/assets/images/news-archive/2019-09-29-03oxford70-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-09-29-06dinner3-200x150.jpg)Dinner scene 3](https://www.ocss.org.uk/wp-content/uploads/2020/10/06dinner3.jpg)
+*Oxford 70s team*
 
-[![](/assets/images/news-archive/2019-09-29-07dinner4-200x150.jpg)Dinner scene 4](https://www.ocss.org.uk/wp-content/uploads/2020/10/07dinner4.jpg)
+![](/assets/images/news-archive/2019-09-29-04dinner1-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-09-29-08trophy-200x150.jpg)Oxford Current concede the Bell Trophy to Oxford 70's Andrew Reid, with Oxford 70's non-sailing captain Chris Pugh beside him](https://www.ocss.org.uk/wp-content/uploads/2020/10/08trophy.jpg)
+*Dinner scene 1*
+
+![](/assets/images/news-archive/2019-09-29-05dinner2-200x150.jpg)
+
+*Dinner scene 2*
+
+![](/assets/images/news-archive/2019-09-29-06dinner3-200x150.jpg)
+
+*Dinner scene 3*
+
+![](/assets/images/news-archive/2019-09-29-07dinner4-200x150.jpg)
+
+*Dinner scene 4*
+
+![](/assets/images/news-archive/2019-09-29-08trophy-200x150.jpg)
+
+*Oxford Current concede the Bell Trophy to Oxford 70's Andrew Reid, with Oxford 70's non-sailing captain Chris Pugh beside him*

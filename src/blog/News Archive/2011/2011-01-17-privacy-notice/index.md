@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Privacy Notice"
 date: 2011-01-17
-tags: ["News Archive", "export"]
+tags: ["export", "Info"]
 ---
 
 This page sets out the O&CSS Data Protection and Privacy policies and procedures for the information of members.
@@ -19,8 +19,8 @@ Communication with members is the major use of the data. Except for sharing from
 
 ### O&CSS Data Protection and Privacy – Control
 
-You are in control. If you have any queries, wish to restrict data processing or sharing, or do not want to be contacted by the Society, [please inform us](mailto:secretary@ocss.org.uk?Subject=O%26CSS%20Data%20Protection/Privacy%20Query)[email-link]. We will publish any changes we make to this Privacy Notice and, where appropriate, notify you by email.
+You are in control. If you have any queries, wish to restrict data processing or sharing, or do not want to be contacted by the Society, [please inform us](mailto:secretary@OCSS.org.uk?Subject=O%26CSS%20Data%20Protection/Privacy%20Query)[email-link]. We will publish any changes we make to this Privacy Notice and, where appropriate, notify you by email.
 
-If you have any concerns about data protection or personal privacy, please contact the [Hon Secretary](mailto:secretary@ocss.org.uk?Subject=O%26CSS%20Data%20Protection/Privacy%20Query)[email-link], who acts as Data Controller for member data.
+If you have any concerns about data protection or personal privacy, please contact the [Hon Secretary](mailto:secretary@OCSS.org.uk?Subject=O%26CSS%20Data%20Protection/Privacy%20Query)[email-link], who acts as Data Controller for member data.
 
 This website also uses some minimal WordPress plugin cookies for Google Analytics data collection.

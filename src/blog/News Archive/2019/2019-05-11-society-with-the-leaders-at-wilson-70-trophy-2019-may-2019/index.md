@@ -13,14 +13,8 @@ No wind followed by thunderstorms curtailed racing on the first day. Conditions 
 
 ![](/assets/images/news-archive/2019-05-11-ArthurSat.jpg)
 
-*
-Arthur Henderson and Becky Cross in action (Saturday)
-
-*
+*Arthur Henderson and Becky Cross in action (Saturday)*
 
 ![](/assets/images/news-archive/2019-05-11-TeamWilson.jpg)
 
-*
-Society Team. Front: Becky Cross (Ox 2008), Francine Counsell (Cam 2011), Honor Fell (Cam 2010), Fiona Hampshire (Cam 2009). Back: Joshua Flack (Cam 2010), Arthur Henderson (Cam 2011).
-
-*
+*Society Team. Front: Becky Cross (Ox 2008), Francine Counsell (Cam 2011), Honor Fell (Cam 2010), Fiona Hampshire (Cam 2009). Back: Joshua Flack (Cam 2010), Arthur Henderson (Cam 2011).*

@@ -19,7 +19,4 @@ The second Oxford (White) team finished a creditable 13th overall in the Trophy 
 
 ![](/assets/images/news-archive/2019-04-18-CamYachtingBUSA.jpg)
 
-*
-Cambridge with their Silver Medals: Chris Cantillo, Laurence Cochrane, Anna Prescott, Karen Thomas, Holly MacAskill, Freddie Scott, Garrett Bray, Niels van Fraassen
-
-*
+*Cambridge with their Silver Medals: Chris Cantillo, Laurence Cochrane, Anna Prescott, Karen Thomas, Holly MacAskill, Freddie Scott, Garrett Bray, Niels van Fraassen*

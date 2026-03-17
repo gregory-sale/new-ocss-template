@@ -11,7 +11,4 @@ Richard was first appointed to the RYA Racing Rules Committee in 1998 and became
 
 ![Photo of Richard receiving his award](/assets/images/news-archive/2021-11-28-RichardThompsonRYA.jpg)
 
-*
-Richard receives his award from Anne, Princess Royal
-
-*
+*Richard receives his award from Anne, Princess Royal*

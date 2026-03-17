@@ -19,7 +19,4 @@ Thanks to Tom Low for the report!
 
 ![Team Photo](/assets/images/news-archive/2023-08-28-Itchenor-23-Teams-1.jpg)
 
-*
-Teams pose together with the Stewart Morris Trophy
-
-*
+*Teams pose together with the Stewart Morris Trophy*

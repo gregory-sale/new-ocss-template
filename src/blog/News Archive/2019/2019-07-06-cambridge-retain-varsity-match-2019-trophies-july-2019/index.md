@@ -22,34 +22,66 @@ This year's outcome brings the number of consecutive Cambridge victories to 7 - 
 Varsity Match 2019 Photographs
 Explore the gallery of photographs below by clicking on the thumbnail to display the full-size photo.   Click outside of the displayed photo or on the top-right 'X' to close it.   Click on the photo to display the next in the gallery.   Use ‘Leave a Reply’ at the bottom of this page to make a comment.
 
-[![](/assets/images/news-archive/2019-07-06-01technology-200x150.jpg)Technology arrives at the Varsity Match - some drone footage is available on Instagram](https://www.ocss.org.uk/wp-content/uploads/2020/10/01technology.jpg)
+![](/assets/images/news-archive/2019-07-06-01technology-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-07-06-02tostart-200x150.jpg)Oxford (blue - right) and Cambridge (yellow - left) keep company on the voyage to the match race starting area on Wednesday](https://www.ocss.org.uk/wp-content/uploads/2020/10/02tostart.jpg)
+*Technology arrives at the Varsity Match - some drone footage is available on Instagram*
 
-[![](/assets/images/news-archive/2019-07-06-03mixedstart1-200x150.jpg)A somewhat ragged start to the first Mixed race on Thursday - no one near the line (Cambridge yellow, Oxford blue)](https://www.ocss.org.uk/wp-content/uploads/2020/10/03mixedstart1.jpg)
+![](/assets/images/news-archive/2019-07-06-02tostart-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-07-06-04ladiesstart1-200x150.jpg)The Ladies show how to do it at the start of their first race on Thursday (Cambridge yellow, Oxford blue)](https://www.ocss.org.uk/wp-content/uploads/2020/10/04ladiesstart1.jpg)
+*Oxford (blue - right) and Cambridge (yellow - left) keep company on the voyage to the match race starting area on Wednesday*
 
-[![](/assets/images/news-archive/2019-07-06-05neckandneck-200x150.jpg)Neck and neck approaching the leeward mark in a Mixed race on Thursday (Cambridge blue, Oxford Yellow)](https://www.ocss.org.uk/wp-content/uploads/2020/10/05neckandneck.jpg)
+![](/assets/images/news-archive/2019-07-06-03mixedstart1-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-07-06-07leewardmark-200x150.jpg)The race starts again at the leeward mark in a Mixed race on Thursday (Cambridge blue, Oxford yellow)](https://www.ocss.org.uk/wp-content/uploads/2020/10/07leewardmark.jpg)
+*A somewhat ragged start to the first Mixed race on Thursday - no one near the line (Cambridge yellow, Oxford blue)*
 
-[![](/assets/images/news-archive/2019-07-06-07waitwing-200x150.jpg)Waiting for the wind on Friday](https://www.ocss.org.uk/wp-content/uploads/2020/10/07waitwing.jpg)
+![](/assets/images/news-archive/2019-07-06-04ladiesstart1-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-07-06-08secondbeat-200x150.jpg)Start of the third beat in the deciding Ladies race on Friday (Cambridge blue, Oxford yellow).](https://www.ocss.org.uk/wp-content/uploads/2020/10/08secondbeat.jpg)
+*The Ladies show how to do it at the start of their first race on Thursday (Cambridge yellow, Oxford blue)*
 
-[![](/assets/images/news-archive/2019-07-06-09mothership-200x133.jpg)Mother Ship for changeovers, kindly provided by James Mehew (Selwyn 1966)](https://www.ocss.org.uk/wp-content/uploads/2020/10/09mothership.jpg)
+![](/assets/images/news-archive/2019-07-06-05neckandneck-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-07-06-10committee-200x133.jpg)Committee Boat on station, PRO Patrick Gifford (Magdalene 1963) poised with hooter](https://www.ocss.org.uk/wp-content/uploads/2020/10/10committee.jpg)
+*Neck and neck approaching the leeward mark in a Mixed race on Thursday (Cambridge blue, Oxford Yellow)*
 
-[![](/assets/images/news-archive/2019-07-06-11cheerful-200x133.jpg)Oxford Cheerful in defeat](https://www.ocss.org.uk/wp-content/uploads/2020/10/11cheerful.jpg)
+![](/assets/images/news-archive/2019-07-06-07leewardmark-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-07-06-12prizegiving-200x133.jpg)Cambridge Ladies collect their prizes. O&CSS President Patrick Bird (St Peters 1978) and Event Organiser Mike Hayles (Churchill 1962) in background.](https://www.ocss.org.uk/wp-content/uploads/2020/10/12prizegiving.jpg)
+*The race starts again at the leeward mark in a Mixed race on Thursday (Cambridge blue, Oxford yellow)*
 
-[![](/assets/images/news-archive/2019-07-06-13oxford-200x133.jpg)The combined Oxford teams:](https://www.ocss.org.uk/wp-content/uploads/2020/10/13oxford.jpg)
+![](/assets/images/news-archive/2019-07-06-07waitwing-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-07-06-14matchteams-200x133.jpg)Cambridge Match Racing Teams: (Back-2nd Strings) David Robertson, Anna Prescott (Helm-holding Challenge Cup), Henry Morley. (Front-1st Strings) Jemima Lawson, Robbie King (Helm-holding Eurynome Bowl), Jamie Webb.](https://www.ocss.org.uk/wp-content/uploads/2020/10/14matchteams.jpg)
+*Waiting for the wind on Friday*
 
-[![](/assets/images/news-archive/2019-07-06-15ladies-188x150.jpg)Cambridge Ladies: (Back) Anna Prescott, Chloe Macaulay, Nina Luckmann, Holly MacAskill, Jules Welham, Karen Thomas. (Front) Jemima Lawson, Cat Wallace (Capt-holding O&CSS Anniversary Salver), Bethan Matthew.](https://www.ocss.org.uk/wp-content/uploads/2020/10/15ladies.jpg)
+![](/assets/images/news-archive/2019-07-06-08secondbeat-200x150.jpg)
 
-[![](/assets/images/news-archive/2019-07-06-16mixed-200x133.jpg)15ladies Cambridge Ladies: (Back) Anna Prescott, Chloe Macaulay, Nina Luckmann, Holly MacAskill, Jules Welham, Karen Thomas. (Front) Jemima Lawson, Cat Wallace (Capt-holding O&CSS Anniversary Salver), Bethan Matthew. 16mixed Cambridge Mixed: (Back) Alex Smallwood, Michael Smith, Henry Morley, Hugh Tomkins, Alex Baxter, Ollie Jagger. (Front) Robbie King, Paris Thomas (Capt-holding Yule Oldham Cup), Jamie Webb.](https://www.ocss.org.uk/wp-content/uploads/2020/10/16mixed.jpg)
+*Start of the third beat in the deciding Ladies race on Friday (Cambridge blue, Oxford yellow).*
+
+![](/assets/images/news-archive/2019-07-06-09mothership-200x133.jpg)
+
+*Mother Ship for changeovers, kindly provided by James Mehew (Selwyn 1966)*
+
+![](/assets/images/news-archive/2019-07-06-10committee-200x133.jpg)
+
+*Committee Boat on station, PRO Patrick Gifford (Magdalene 1963) poised with hooter*
+
+![](/assets/images/news-archive/2019-07-06-11cheerful-200x133.jpg)
+
+*Oxford Cheerful in defeat*
+
+![](/assets/images/news-archive/2019-07-06-12prizegiving-200x133.jpg)
+
+*Cambridge Ladies collect their prizes. O&CSS President Patrick Bird (St Peters 1978) and Event Organiser Mike Hayles (Churchill 1962) in background.*
+
+![](/assets/images/news-archive/2019-07-06-13oxford-200x133.jpg)
+
+*The combined Oxford teams:*
+
+![](/assets/images/news-archive/2019-07-06-14matchteams-200x133.jpg)
+
+*Cambridge Match Racing Teams: (Back-2nd Strings) David Robertson, Anna Prescott (Helm-holding Challenge Cup), Henry Morley. (Front-1st Strings) Jemima Lawson, Robbie King (Helm-holding Eurynome Bowl), Jamie Webb.*
+
+![](/assets/images/news-archive/2019-07-06-15ladies-188x150.jpg)
+
+*Cambridge Ladies: (Back) Anna Prescott, Chloe Macaulay, Nina Luckmann, Holly MacAskill, Jules Welham, Karen Thomas. (Front) Jemima Lawson, Cat Wallace (Capt-holding O&CSS Anniversary Salver), Bethan Matthew.*
+
+![](/assets/images/news-archive/2019-07-06-16mixed-200x133.jpg)
+
+*15ladies Cambridge Ladies: (Back) Anna Prescott, Chloe Macaulay, Nina Luckmann, Holly MacAskill, Jules Welham, Karen Thomas. (Front) Jemima Lawson, Cat Wallace (Capt-holding O&CSS Anniversary Salver), Bethan Matthew. 16mixed Cambridge Mixed: (Back) Alex Smallwood, Michael Smith, Henry Morley, Hugh Tomkins, Alex Baxter, Ollie Jagger. (Front) Robbie King, Paris Thomas (Capt-holding Yule Oldham Cup), Jamie Webb.*

@@ -2,12 +2,10 @@
 layout: layouts/post.njk
 title: "Society Rules And Regulations"
 date: 2011-01-17
-tags: ["News Archive", "export"]
+tags: ["export", "Info"]
 ---
 
-### **O&CSS Rules and Regulations for Members of the Oxford and Cambridge Sailing Society**
-
-NAME: The name of the Society shall be the Oxford and Cambridge Sailing Society.
+### **O&CSS Rules and Regulations for Members of the Oxford and Cambridge Sailing Society**NAME: The name of the Society shall be the Oxford and Cambridge Sailing Society.
 
 OBJECTS: The objects of the Society are the encouragement of yacht and dinghy sailing and racing and, in particular, team racing.
 
@@ -41,6 +39,4 @@ RAISING SUBSCRIPTIONS: The Society in General Meeting shall have the power to ra
 
 EXPULSION: The Committee has power at any time to expel any member.
 
-VIRTUAL MEETINGS AND VIRTUAL ATTENDANCE: The Committee may decide to hold any general meeting via electronic technology, and the President may make the same decision for any committee meeting.  The terms ‘present’ and ‘present in person’ used in these rules shall include electronic participation.
-
-*Amended 1 October 2020*
+VIRTUAL MEETINGS AND VIRTUAL ATTENDANCE: The Committee may decide to hold any general meeting via electronic technology, and the President may make the same decision for any committee meeting.  The terms ‘present’ and ‘present in person’ used in these rules shall include electronic participation.*Amended 1 October 2020*

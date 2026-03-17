@@ -31,10 +31,18 @@ NBYC: David Talbot, Henry Harston, Ben Knight, Malcolm Kemp, Ian Richardson, Sim
 Photographs
 Explore the gallery of photographs below by clicking on the thumbnail to display the full-size photo.   Click outside of the displayed photo or on the top-right 'X' to close it.   Click on the photo to display the next in the gallery.   Use ‘Leave a Reply’ at the bottom of this page to make a comment.
 
-[![](/assets/images/news-archive/2018-09-01-01trophy-200x133.png)George Harston receives the Stewart Morris Trophy from NBYC Rear Commodore Paul Youngs](https://www.ocss.org.uk/wp-content/uploads/2020/10/01trophy.png)
+![](/assets/images/news-archive/2018-09-01-01trophy-200x133.png)
 
-[![](/assets/images/news-archive/2018-09-01-02team-200x133.png)The victorious Society team. (Back):Nick Copley, Sarah Harston, Jamie Reid, Alistair Rose. (Front): George Harston, Giles Bradford.](https://www.ocss.org.uk/wp-content/uploads/2020/10/02team.png)
+*George Harston receives the Stewart Morris Trophy from NBYC Rear Commodore Paul Youngs*
 
-[![](/assets/images/news-archive/2018-09-01-03beat-200x133.png)Close racing on the beat](https://www.ocss.org.uk/wp-content/uploads/2020/10/03beat.png)
+![](/assets/images/news-archive/2018-09-01-02team-200x133.png)
 
-[![](/assets/images/news-archive/2018-09-01-04relax-200x133.png)Who wants to sail an RS200 when you can do this? Giles Bradford at the helm.](https://www.ocss.org.uk/wp-content/uploads/2020/10/04relax.png)
+*The victorious Society team. (Back):Nick Copley, Sarah Harston, Jamie Reid, Alistair Rose. (Front): George Harston, Giles Bradford.*
+
+![](/assets/images/news-archive/2018-09-01-03beat-200x133.png)
+
+*Close racing on the beat*
+
+![](/assets/images/news-archive/2018-09-01-04relax-200x133.png)
+
+*Who wants to sail an RS200 when you can do this? Giles Bradford at the helm.*

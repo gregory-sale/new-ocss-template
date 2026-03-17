@@ -2,12 +2,10 @@
 layout: layouts/post.njk
 title: "Society Election Guidelines"
 date: 2011-01-17
-tags: ["News Archive", "export"]
+tags: ["export","Info"]
 ---
 
-### **GUIDELINES FOR ELECTIONS TO THE OXFORD & CAMBRIDGE SAILING SOCIETY**
-
-### **Current Membership Rules**
+### **GUIDELINES FOR ELECTIONS TO THE OXFORD & CAMBRIDGE SAILING SOCIETY**### **Current Membership Rules**
 
 “Election of all candidates for membership shall be by the committee. Every candidate shall be proposed and seconded by members of the Society, to both of whom the candidate shall be personally known. Both proposer and seconder shall write letters to or email the Secretary of the Society in support of the candidate. In electing candidates, the Committee is expected to maintain the traditional selective nature of the Society membership.
 
@@ -17,11 +15,7 @@ Membership shall be confined to present or past members or supporters of the Oxf
 
 The committee feels that sailing talent should be the main criteria for election and that includes crewing as well as helming talent. In addition it is felt that exceptions to this criteria should be permitted in the cases of individuals who had made a major contribution to the sport (either at University or since then) and who would make worthwhile members of the Society.
 
-### **Detailed Guidelines**
-
-***Category***
-***Presumption***
-***Comment***
+### **Detailed Guidelines*****Category******Presumption******Comment***
 
 Team racing captains
 Elect

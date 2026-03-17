@@ -20,34 +20,66 @@ Salcombe Gin sponsorship enlivened the reception. Good sponsorship from the grad
 Photographs
 Explore the gallery of photographs below by clicking on the thumbnail to display the full-size photo.   Click outside of the displayed photo or on the top-right 'X' to close it.   Click on the photo to display the next in the gallery.   Use ‘Leave a Reply’ at the bottom of this page to make a comment.
 
-[![](/assets/images/news-archive/2018-07-09-010reach-200x133.jpg)Close sailing on the reach](https://www.ocss.org.uk/wp-content/uploads/2020/10/010reach.jpg)
+![](/assets/images/news-archive/2018-07-09-010reach-200x133.jpg)
 
-[![](/assets/images/news-archive/2018-07-09-011hike-200x133.jpg)Cambridge Ladies Captain Anna Prescott gets the last ounce out of hiking](https://www.ocss.org.uk/wp-content/uploads/2020/10/011hike.jpg)
+*Close sailing on the reach*
 
-[![](/assets/images/news-archive/2018-07-09-020splash-200x133.jpg)Not the UK Olympic diving squad - Cambridge skylarks after the match](https://www.ocss.org.uk/wp-content/uploads/2020/10/020splash.jpg)
+![](/assets/images/news-archive/2018-07-09-011hike-200x133.jpg)
 
-[![](/assets/images/news-archive/2018-07-09-021trophies.jpg)Cambridge Acting Captain Paris Thomas and Ladies Captain Anna Prescott pose with the trophies](https://www.ocss.org.uk/wp-content/uploads/2020/10/021trophies.jpg)
+*Cambridge Ladies Captain Anna Prescott gets the last ounce out of hiking*
 
-[![](/assets/images/news-archive/2018-07-09-030reception-200x150.jpg)What are we going to do with all this gin?](https://www.ocss.org.uk/wp-content/uploads/2020/10/030reception.jpg)
+![](/assets/images/news-archive/2018-07-09-020splash-200x133.jpg)
 
-[![](/assets/images/news-archive/2018-07-09-040reception-200x150.jpg)The pre-dinner reception gets under way ...](https://www.ocss.org.uk/wp-content/uploads/2020/10/040reception.jpg)
+*Not the UK Olympic diving squad - Cambridge skylarks after the match*
 
-[![](/assets/images/news-archive/2018-07-09-050reception-200x150.jpg)... and continues](https://www.ocss.org.uk/wp-content/uploads/2020/10/050reception.jpg)
+![](/assets/images/news-archive/2018-07-09-021trophies.jpg)
 
-[![](/assets/images/news-archive/2018-07-09-060camball-200x150.jpg)Combined Cambridge teams - see separate team photos for names](https://www.ocss.org.uk/wp-content/uploads/2020/10/060camball.jpg)
+*Cambridge Acting Captain Paris Thomas and Ladies Captain Anna Prescott pose with the trophies*
 
-[![](/assets/images/news-archive/2018-07-09-070oxfall-200x133.jpg)Combined Oxford teams](https://www.ocss.org.uk/wp-content/uploads/2020/10/070oxfall.jpg)
+![](/assets/images/news-archive/2018-07-09-030reception-200x150.jpg)
 
-[![](/assets/images/news-archive/2018-07-09-080camb-200x150.jpg)Cambridge Mixed Team: (Back) Alex Smallwood, Michael Smith, Henry Morley, Ollie Jagger, Greg Sale. (Front) George Hopes, Robbie King, Paris Thomas, Jamie Webb](https://www.ocss.org.uk/wp-content/uploads/2020/10/080camb.jpg)
+*What are we going to do with all this gin?*
 
-[![](/assets/images/news-archive/2018-07-09-090cambladies-200x150.jpg)Cambridge Ladies: (Back) Jules Welham, Karen Thomas, Anna Prescott, Chloe Macaulay, Jemima Lawson, Fiona Tait. (Front) Penny Wieser, Bethan Matthew, Holly MacAskill.](https://www.ocss.org.uk/wp-content/uploads/2020/10/090cambladies.jpg)
+![](/assets/images/news-archive/2018-07-09-040reception-200x150.jpg)
 
-[![](/assets/images/news-archive/2018-07-09-100oxf-200x150.jpg)Oxford men](https://www.ocss.org.uk/wp-content/uploads/2020/10/100oxf.jpg)
+*The pre-dinner reception gets under way ...*
 
-[![](/assets/images/news-archive/2018-07-09-110dinner1-200x150.jpg)Dinner scene 1](https://www.ocss.org.uk/wp-content/uploads/2020/10/110dinner1.jpg)
+![](/assets/images/news-archive/2018-07-09-050reception-200x150.jpg)
 
-[![](/assets/images/news-archive/2018-07-09-120dinner2-200x150.jpg)Dinner scene 2](https://www.ocss.org.uk/wp-content/uploads/2020/10/120dinner2.jpg)
+*... and continues*
 
-[![](/assets/images/news-archive/2018-07-09-150dinner3-200x133.jpg)Dinner scene 3](https://www.ocss.org.uk/wp-content/uploads/2020/10/150dinner3.jpg)
+![](/assets/images/news-archive/2018-07-09-060camball-200x150.jpg)
 
-[![](/assets/images/news-archive/2018-07-09-160racec-200x133.jpg)RaceOfficers: Richard Thompson (Umpire), ??, Meli Besse (Match Organiser), Sam Jenkins (PRO).](https://www.ocss.org.uk/wp-content/uploads/2020/10/160racec.jpg)
+*Combined Cambridge teams - see separate team photos for names*
+
+![](/assets/images/news-archive/2018-07-09-070oxfall-200x133.jpg)
+
+*Combined Oxford teams*
+
+![](/assets/images/news-archive/2018-07-09-080camb-200x150.jpg)
+
+*Cambridge Mixed Team: (Back) Alex Smallwood, Michael Smith, Henry Morley, Ollie Jagger, Greg Sale. (Front) George Hopes, Robbie King, Paris Thomas, Jamie Webb*
+
+![](/assets/images/news-archive/2018-07-09-090cambladies-200x150.jpg)
+
+*Cambridge Ladies: (Back) Jules Welham, Karen Thomas, Anna Prescott, Chloe Macaulay, Jemima Lawson, Fiona Tait. (Front) Penny Wieser, Bethan Matthew, Holly MacAskill.*
+
+![](/assets/images/news-archive/2018-07-09-100oxf-200x150.jpg)
+
+*Oxford men*
+
+![](/assets/images/news-archive/2018-07-09-110dinner1-200x150.jpg)
+
+*Dinner scene 1*
+
+![](/assets/images/news-archive/2018-07-09-120dinner2-200x150.jpg)
+
+*Dinner scene 2*
+
+![](/assets/images/news-archive/2018-07-09-150dinner3-200x133.jpg)
+
+*Dinner scene 3*
+
+![](/assets/images/news-archive/2018-07-09-160racec-200x133.jpg)
+
+*RaceOfficers: Richard Thompson (Umpire), ??, Meli Besse (Match Organiser), Sam Jenkins (PRO).*

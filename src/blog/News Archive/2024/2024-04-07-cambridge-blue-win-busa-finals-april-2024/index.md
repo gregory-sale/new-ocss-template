@@ -21,7 +21,4 @@ CUCrc extends thanks to KSail, Grafham Water Sailing Club, and a number of OCSS 
 
 ![](/assets/images/news-archive/2024-04-07-24_BUSA_CambridgeWinners.jpg)
 
-*
-Cambridge Blue, BUSA TR Champions 2024
-
-*
+*Cambridge Blue, BUSA TR Champions 2024*

@@ -2,16 +2,12 @@
 layout: layouts/post.njk
 title: "Agm 2019 Minutes"
 date: 2019-10-01
-tags: ["News Archive", "export"]
+tags: ["export", "Meeting minutes"]
 ---
 
-**Minutes of the 79th Annual General Meeting of the Oxford and Cambridge Sailing Society at Kellogg College Oxford on Saturday 28th September  2019, being the 85th Anniversary of the Society**
+**Minutes of the 79th Annual General Meeting of the Oxford and Cambridge Sailing Society at Kellogg College Oxford on Saturday 28th September  2019, being the 85th Anniversary of the Society**Anthony Butler took the chair and the meeting began at 19.15hrs with 15 members present.
 
-Anthony Butler took the chair and the meeting began at 19.15hrs with 15 members present.
-
-Apologies were received from the President (Patrick Bird was in Doha cheering on his daughter who was running for GB in the World Athletics Championships 3000m steeplechase), Claire Lasko (Hon Treasurer), Fiona Hampshire (Hon Secretary), Tom Low (Investments),  Katie Nurton (Port), and Ben Rahemtulla and Kathryn Twemlow (incoming committee members).
-
-**Minutes of 78th AGM**  
+Apologies were received from the President (Patrick Bird was in Doha cheering on his daughter who was running for GB in the World Athletics Championships 3000m steeplechase), Claire Lasko (Hon Treasurer), Fiona Hampshire (Hon Secretary), Tom Low (Investments),  Katie Nurton (Port), and Ben Rahemtulla and Kathryn Twemlow (incoming committee members).**Minutes of 78th AGM**  
 As no amendments had been circulated or proposed, the minutes of the 2018 AGM were approved as published on the website.
 
 **President’s Report**  

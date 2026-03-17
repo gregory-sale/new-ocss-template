@@ -11,7 +11,4 @@ From early in the competition Royal Thames signalled that they were the team to 
 
 ![Photo of racing for the Cumberland Cup 2018](/assets/images/news-archive/2018-05-14-Cumberland.jpg)
 
-*
-Close racing on the top reach - Josh at the helm of No 8, other RTYC boat (No 6) to leeward and partly hidden. Photo by [Sportography](https://www.sportography.tv/index)
-
-*
+*Close racing on the top reach - Josh at the helm of No 8, other RTYC boat (No 6) to leeward and partly hidden. Photo by [Sportography](https://www.sportography.tv/index)*

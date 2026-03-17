@@ -15,7 +15,4 @@ OCSS Team: Fiona Hampshire and Honor Fell, Arthur Henderson and Becky Cross, Cla
 
 ![](/assets/images/news-archive/2024-01-31-OCSS-Warmer-2024.jpeg)
 
-*
-OCSS Team
-
-*
+*OCSS Team*

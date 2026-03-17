@@ -11,14 +11,8 @@ Solent Black won the main competition from the 8 universities that qualified for
 
 ![Photo of Oxford team for Oxford Cambridge yachting Varsity Match 2018](/assets/images/news-archive/2018-04-02-OxfYvTrophy.jpg)
 
-*
-Victorious Oxford with both their trophies (Varsity Queenborough Cup to front)
-
-*
+*Victorious Oxford with both their trophies (Varsity Queenborough Cup to front)*
 
 ![Photo of Oxford sailing for Oxford Cambridge yachting Varsity Match 2018](/assets/images/news-archive/2018-04-02-OxfYvAction.jpg)
 
-*
-Oxford in action   ©2018 Harry Bowerman Photography
-
-*
+*Oxford in action   ©2018 Harry Bowerman Photography*

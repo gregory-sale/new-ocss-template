@@ -11,7 +11,4 @@ The full spectrum of society members were represented, down to the most recent g
 
 ![](/assets/images/news-archive/2024-05-07-OCSS-Dinner-2024i.jpg)
 
-*
-Revellers at the dinner
-
-*
+*Revellers at the dinner*

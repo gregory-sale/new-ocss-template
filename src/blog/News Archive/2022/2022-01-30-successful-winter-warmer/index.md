@@ -25,42 +25,82 @@ Josh Adams (CrC) & Krystal Law
 
 Explore the gallery of photographs below by clicking on the thumbnail to display the full-size photo.   Click outside of the displayed photo or on the top-right 'X' to close it.   Click on the photo to display the next in the gallery.   Use ‘Leave a Reply’ at the bottom of this page to make a comment.
 
-[![Team photo](/assets/images/news-archive/2022-01-30-01Bristol-200x150.jpg)Bristol](https://www.ocss.org.uk/wp-content/uploads/2022/01/01Bristol.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-01Bristol-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-02Cambermet-200x150.jpg)Cambermet Cardinals](https://www.ocss.org.uk/wp-content/uploads/2022/01/02Cambermet.jpg)
+*Bristol*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-03CamBlue-200x150.jpg)Cambridge Blue](https://www.ocss.org.uk/wp-content/uploads/2022/01/03CamBlue.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-02Cambermet-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-04CamPurple-200x150.jpg)Cambridge Pink](https://www.ocss.org.uk/wp-content/uploads/2022/01/04CamPurple.jpg)
+*Cambermet Cardinals*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-05Cardiff-200x150.jpg)Cardiff](https://www.ocss.org.uk/wp-content/uploads/2022/01/05Cardiff.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-03CamBlue-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-06Cindies-200x150.jpg)Cindies SC](https://www.ocss.org.uk/wp-content/uploads/2022/01/06Cindies.jpg)
+*Cambridge Blue*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-07ExeterBlack-200x150.jpg)Exeter Black](https://www.ocss.org.uk/wp-content/uploads/2022/01/07ExeterBlack.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-04CamPurple-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-08ExeterBlue-200x150.jpg)Exeter Blue](https://www.ocss.org.uk/wp-content/uploads/2022/01/08ExeterBlue.jpg)
+*Cambridge Pink*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-09Imperial-200x150.jpg)Imperial](https://www.ocss.org.uk/wp-content/uploads/2022/01/09Imperial.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-05Cardiff-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-10OCSS-200x150.jpg)Oxford & Cambridge SS](https://www.ocss.org.uk/wp-content/uploads/2022/01/10OCSS.jpg)
+*Cardiff*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-11Oxford-200x150.jpg)Oxford](https://www.ocss.org.uk/wp-content/uploads/2022/01/11Oxford.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-06Cindies-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-12PortsMafia-200x150.jpg)Portswood Mafia](https://www.ocss.org.uk/wp-content/uploads/2022/01/12PortsMafia.jpg)
+*Cindies SC*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-13PortsPirates-200x150.jpg)Portswood Pirates](https://www.ocss.org.uk/wp-content/uploads/2022/01/13PortsPirates.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-07ExeterBlack-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-14LymLegnd-200x150.jpg)Royal Lymington Legend](https://www.ocss.org.uk/wp-content/uploads/2022/01/14LymLegnd.jpg)
+*Exeter Black*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-15RoyatThames-200x150.jpg)Royal Thames](https://www.ocss.org.uk/wp-content/uploads/2022/01/15RoyatThames.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-08ExeterBlue-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-16Rutland-200x150.jpg)Rutland Raiders](https://www.ocss.org.uk/wp-content/uploads/2022/01/16Rutland.jpg)
+*Exeter Blue*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-17Soton-200x150.jpg)Southampton](https://www.ocss.org.uk/wp-content/uploads/2022/01/17Soton.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-09Imperial-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-18Spinnaker-200x150.jpg)Spinnaker SC](https://www.ocss.org.uk/wp-content/uploads/2022/01/18Spinnaker.jpg)
+*Imperial*
 
-[![Team photo](/assets/images/news-archive/2022-01-30-19TCD-197x150.jpg)Trinity College Dublin](https://www.ocss.org.uk/wp-content/uploads/2022/01/19TCD.jpg)
+![Team photo](/assets/images/news-archive/2022-01-30-10OCSS-200x150.jpg)
 
-[![Team photo](/assets/images/news-archive/2022-01-30-20UCD-200x150.jpg)University College Dublin](https://www.ocss.org.uk/wp-content/uploads/2022/01/20UCD.jpg)
+*Oxford & Cambridge SS*
+
+![Team photo](/assets/images/news-archive/2022-01-30-11Oxford-200x150.jpg)
+
+*Oxford*
+
+![Team photo](/assets/images/news-archive/2022-01-30-12PortsMafia-200x150.jpg)
+
+*Portswood Mafia*
+
+![Team photo](/assets/images/news-archive/2022-01-30-13PortsPirates-200x150.jpg)
+
+*Portswood Pirates*
+
+![Team photo](/assets/images/news-archive/2022-01-30-14LymLegnd-200x150.jpg)
+
+*Royal Lymington Legend*
+
+![Team photo](/assets/images/news-archive/2022-01-30-15RoyatThames-200x150.jpg)
+
+*Royal Thames*
+
+![Team photo](/assets/images/news-archive/2022-01-30-16Rutland-200x150.jpg)
+
+*Rutland Raiders*
+
+![Team photo](/assets/images/news-archive/2022-01-30-17Soton-200x150.jpg)
+
+*Southampton*
+
+![Team photo](/assets/images/news-archive/2022-01-30-18Spinnaker-200x150.jpg)
+
+*Spinnaker SC*
+
+![Team photo](/assets/images/news-archive/2022-01-30-19TCD-197x150.jpg)
+
+*Trinity College Dublin*
+
+![Team photo](/assets/images/news-archive/2022-01-30-20UCD-200x150.jpg)
+
+*University College Dublin*

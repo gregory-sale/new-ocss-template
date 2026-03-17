@@ -9,19 +9,13 @@ Congratulations to Anthony Lunch on his RYA Lifetime Commitment Award. This is i
 
 ![](/assets/images/news-archive/2018-11-16-AnthonyLunch.jpg)
 
-*
-Anthony receives his presentation from Princess Anne
-
-*
+*Anthony receives his presentation from Princess Anne*
 
 A passionate and engaged supporter, Anthony has organised Varsity matches, hosted training events, and facilitated student participation in Cowes Week. He has also raised the international profile of Oxford University YC through an exchange programme with students in Japan.
 
 ![](/assets/images/news-archive/2018-11-16-CowesBursarySquads.jpg)
 
-*
-Anthony Lunch (back centre) with a group of youth participants in Cowes Week Swallows - through his efforts.
-
-*
+*Anthony Lunch (back centre) with a group of youth participants in Cowes Week Swallows - through his efforts.*
 
 ### OUYC Involvement
 
