@@ -1,33 +1,33 @@
 {
-  "name": "Indieweb Starter Blog",
-  "description": "Stop doomscrolling, start creating. Own a part of the Internet again.",
-  "url": "https://indieweb-template.netlify.app",
-  "author": "Your Name",
-  "email": "your@email.com",
+  "name": "Oxford & Cambridge Sailing Society",
+  "description": "Description of the site.",
+  "url": "https://ocss.org.uk",
+  "author": "Oxford & Cambridge Sailing Society",
+  "email": "admin@ocss.org.uk",
   "social": {
-    "github": "yourusername",
-    "mastodon": "@yourhandle@mastodon.social",
-    "twitter": "@yourhandle"
+    "github": "ocss",
+    "mastodon": "@ocss@mastodon.social",
+    "twitter": "@ocss"
   },
   "repo": {
-    "url": "https://github.com/brennanbrown/11ty-Indie-Web-Blog-Starter",
-    "branch": "main"
+    "url": "",
+    "branch": ""
   },
   "bio": {
-    "short": "Writer, thinker, and digital minimalist",
-    "long": "I'm passionate about thoughtful writing, meaningful connections, and building a more human web. This is my corner of the internet where I share ideas, experiences, and discoveries."
+    "short": "",
+    "long": ""
   },
-  "location": "Your City, Country",
-  "timezone": "America/Los_Angeles",
+  "location": "",
+  "timezone": "United Kingdom",
   "newsletter": {
-    "enabled": true,
+    "enabled": false,
     "provider": "buttondown",
-    "action": "https://buttondown.email/api/emails/embed-subscribe/yourusername",
-    "title": "Join the Newsletter",
-    "description": "Get thoughtful updates delivered to your inbox. No spam, just meaningful content."
+    "action": "",
+    "title": "",
+    "description": ""
   },
   "donate": {
-    "enabled": true,
+    "enabled": false,
     "kofi": "yourusername",
     "buymeacoffee": "yourusername",
     "github": "yourusername",
@@ -40,7 +40,7 @@
     "siteId": ""
   },
   "webmentions": {
-    "enabled": true,
+    "enabled": false,
     "domain": ""
   },
   "webring": {
@@ -57,14 +57,50 @@
     "microformats": true
   },
   "sections": {
-    "notes": { "enabled": true, "title": "Notes", "path": "/notes/" },
-    "journal": { "enabled": true, "title": "Journal", "path": "/journal/" },
-    "poetry": { "enabled": true, "title": "Poetry", "path": "/poetry/" },
-    "portfolio": { "enabled": true, "title": "Portfolio", "path": "/portfolio/" },
-    "projects": { "enabled": true, "title": "Projects", "path": "/projects/" },
-    "resume": { "enabled": true, "title": "Résumé", "path": "/resume/" },
-    "type": { "enabled": true, "title": "Type", "path": "/type/" },
-    "links": { "enabled": true, "title": "Links", "path": "/links/" },
-    "bookshelf": { "enabled": true, "title": "Bookshelf", "path": "/bookshelf/" }
+    "notes": {
+      "enabled": true,
+      "title": "Notes",
+      "path": "/notes/"
+    },
+    "journal": {
+      "enabled": true,
+      "title": "Journal",
+      "path": "/journal/"
+    },
+    "poetry": {
+      "enabled": true,
+      "title": "Poetry",
+      "path": "/poetry/"
+    },
+    "portfolio": {
+      "enabled": true,
+      "title": "Portfolio",
+      "path": "/portfolio/"
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Projects",
+      "path": "/projects/"
+    },
+    "resume": {
+      "enabled": true,
+      "title": "Résumé",
+      "path": "/resume/"
+    },
+    "type": {
+      "enabled": true,
+      "title": "Type",
+      "path": "/type/"
+    },
+    "links": {
+      "enabled": true,
+      "title": "Links",
+      "path": "/links/"
+    },
+    "bookshelf": {
+      "enabled": true,
+      "title": "Bookshelf",
+      "path": "/bookshelf/"
+    }
   }
 }

@@ -8,8 +8,8 @@ module.exports = {
     extend: {
       colors: {
         paper: {
-          light: '#F8F8F8',
-          dark: '#0f1115'
+          light: '#9bebdfff',
+          dark: '#171750ff'
         }
       },
       maxWidth: {
