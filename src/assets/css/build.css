@@ -681,6 +681,10 @@ a:hover:not(.nav-item) {
   border-width: 0;
 }
 
+.visible {
+  visibility: visible;
+}
+
 .static {
   position: static;
 }
@@ -795,6 +799,10 @@ a:hover:not(.nav-item) {
   display: inline-flex;
 }
 
+.table {
+  display: table;
+}
+
 .grid {
   display: grid;
 }
@@ -815,8 +823,8 @@ a:hover:not(.nav-item) {
   height: 4rem;
 }
 
-.h-24 {
-  height: 6rem;
+.h-36 {
+  height: 9rem;
 }
 
 .h-4 {
@@ -825,10 +833,6 @@ a:hover:not(.nav-item) {
 
 .h-8 {
   height: 2rem;
-}
-
-.h-36 {
-  height: 9rem;
 }
 
 .min-h-screen {
@@ -841,10 +845,6 @@ a:hover:not(.nav-item) {
 
 .w-16 {
   width: 4rem;
-}
-
-.w-24 {
-  width: 6rem;
 }
 
 .w-4 {

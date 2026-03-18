@@ -108,7 +108,7 @@ module.exports = function(eleventyConfig) {
   // Collections
   eleventyConfig.addCollection("posts", (collectionApi) => {
     return collectionApi
-      .getFilteredByGlob("src/blog/**/*.md")
+      .getFilteredByGlob("src/news/**/*.md")
       .filter((item) => {
         const tags = (item.data && item.data.tags) || [];
         return tags.includes("News") || tags.includes("News Archive") || tags.includes("Newsletter");
@@ -145,7 +145,7 @@ module.exports = function(eleventyConfig) {
       .trim()
       .replace(/[^a-z0-9]+/g, "-")
       .replace(/(^-|-$)/g, "");
-    collectionApi.getFilteredByGlob("src/blog/**/*.md").forEach((item) => {
+    collectionApi.getFilteredByGlob("src/news/**/*.md").forEach((item) => {
       const t = item.data && item.data.tags;
       if (Array.isArray(t)) {
         t.forEach((tag) => {
@@ -163,7 +163,7 @@ module.exports = function(eleventyConfig) {
   // Unique list of categories from posts
   eleventyConfig.addCollection("categoryList", (collectionApi) => {
     const cats = new Set();
-    collectionApi.getFilteredByGlob("src/blog/**/*.md").forEach((item) => {
+    collectionApi.getFilteredByGlob("src/news/**/*.md").forEach((item) => {
       const c = item.data && item.data.category;
       if (c) cats.add(c);
     });
@@ -173,7 +173,7 @@ module.exports = function(eleventyConfig) {
   // Search index: lightweight documents for FlexSearch (client-side)
   eleventyConfig.addCollection("searchIndex", (collectionApi) => {
     const posts = collectionApi
-      .getFilteredByGlob("src/blog/**/*.md")
+      .getFilteredByGlob("src/news/**/*.md")
       .sort((a, b) => (a.date > b.date ? -1 : 1));
 
     return posts.map((p) => ({
