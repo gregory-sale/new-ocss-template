@@ -1,45 +1,32 @@
 ---
 layout: layouts/base.njk
 permalink: "/"
-title: "Indieweb Starter Blog"
+title: "Home"
 ---
 <div class="h-feed">
   <!-- Hero Section -->
   <div class="text-center mb-12 py-8">
-    <img src="/assets/logo.png" alt="{{ site.name }} logo" class="h-36 w-auto mx-auto mb-6" />
+    <img src="/assets/logo.png" alt="{{ site.name }} logo" id="homepage-main-logo" class="h-36 w-auto mx-auto mb-6" />
     <h1 class="p-name text-4xl font-bold mb-4 float-animation">{{ site.name }}</h1>
     <p class="p-summary text-xl text-gray-600 dark:text-gray-400 mb-6">{{ site.description }}</p>
     <a class="u-url hidden" href="{{ site.url }}/"></a>
     
-    <div class="max-w-2xl mx-auto mb-8">
-      <p class="text-lg leading-relaxed text-gray-700 dark:text-gray-300 mb-6">
-        Welcome to my corner of the independent web! This is where I share thoughts, discoveries, and conversations 
-        away from the noise of social media algorithms. 
+    <div class="max-w-3xl mx-auto mb-12 text-left">
+      <p class="text-lg leading-relaxed text-gray-800 dark:text-gray-200 font-semibold mb-8">
+       
       </p>
-      
-      <div class="flex flex-wrap justify-center gap-4 text-sm">
-        <span class="bg-purple-100 dark:bg-purple-900/30 text-purple-800 dark:text-purple-200 px-3 py-1 rounded-full">
-          🌱 IndieWeb
-        </span>
-        <span class="bg-blue-100 dark:bg-blue-900/30 text-blue-800 dark:text-blue-200 px-3 py-1 rounded-full">
-          📡 RSS Ready
-        </span>
-        <span class="bg-green-100 dark:bg-green-900/30 text-green-800 dark:text-green-200 px-3 py-1 rounded-full">
-          🔒 Privacy First
-        </span>
-        <span class="bg-orange-100 dark:bg-orange-900/30 text-orange-800 dark:text-orange-200 px-3 py-1 rounded-full">
-          ♿ Accessible
-        </span>
-      </div>
-    </div>
 
-    <div class="flex flex-wrap justify-center gap-4">
-      <a href="/about/" class="bg-purple-600 hover:bg-purple-700 text-white px-6 py-2 rounded-lg transition-colors">
-        👋 Learn more about me
-      </a>
-      <a href="/feed.xml" class="border border-purple-600 text-purple-600 hover:bg-purple-50 dark:hover:bg-purple-900/20 px-6 py-2 rounded-lg transition-colors">
-        📡 Subscribe via RSS
-      </a>
+
+      <h3 class="text-2xl font-bold mb-4 mt-8 break-words text-gray-900 dark:text-gray-100">Member Newsletters</h3>
+      <p class="text-lg leading-relaxed text-gray-700 dark:text-gray-300 mb-6">
+        We send out email newsletters regularly during the year. If you are not receiving them, <a href="mailto:admin@ocss.org.uk?subject=OCSS%20Details%20Update" class="text-purple-600 dark:text-purple-400 hover:underline">send us your contact details</a> and best email address. An archive of newsletters is maintained on this site.
+      </p>
+
+      <h3 class="text-2xl font-bold mb-4 mt-8 break-words text-gray-900 dark:text-gray-100">Interact</h3>
+
+      <p class="text-lg leading-relaxed text-gray-700 dark:text-gray-300 mb-6">
+        <strong>Please submit news of your own and others’ sailing and social activity for publication.</strong> Contact the Webmaster using the link at the very bottom of the sidebar, or the Secretary to get in touch with another member. Any news or photos are welcome. Please also inform us of any changes to your contact details – particularly email address.
+      </p>
     </div>
   </div>
 

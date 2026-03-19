@@ -1,14 +1,9 @@
 {
   "name": "Oxford & Cambridge Sailing Society",
-  "description": "Description of the site.",
+  "description": "Stay updated on O&CSS news, social events, and racing results.",
   "url": "https://ocss.org.uk",
   "author": "Oxford & Cambridge Sailing Society",
   "email": "admin@ocss.org.uk",
-  "social": {
-    "github": "ocss",
-    "mastodon": "@ocss@mastodon.social",
-    "twitter": "@ocss"
-  },
   "repo": {
     "url": "",
     "branch": ""

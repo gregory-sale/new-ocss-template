@@ -240,10 +240,12 @@
           <a href="/ocss-history/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isUses %}underline font-semibold{% endif %}"
              {% if isUses %}aria-current="page"{% endif %}>📜 OCSS History</a>
         </li>
+{#
         <li>
           <a href="/contact/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isContact %}underline font-semibold{% endif %}"
              {% if isContact %}aria-current="page"{% endif %}>💬 Contact</a>
         </li>
+#}
       </ul>
     </div>
   </nav>
@@ -291,7 +293,12 @@
             {% endif %}
             <li>
               <a href="mailto:{{ site.email }}" rel="me" class="inline-flex items-center gap-2 hover:text-blue-600">
-                {{ icon('mail', 'w-4 h-4') }} <span>Email</span>
+                {{ icon('mail', 'w-4 h-4') }} <span>Email the Secretary</span>
+              </a>
+            </li>
+            <li>
+              <a href="mailto:webmaster@ocss.org.uk" class="inline-flex items-center gap-2 hover:text-blue-600">
+                {{ icon('mail', 'w-4 h-4') }} <span>Email the Webmaster</span>
               </a>
             </li>
             {% if site.social.github %}
@@ -320,8 +327,7 @@
       </div>
       <div class="border-t border-gray-200 dark:border-gray-700 mt-6 pt-6 text-center text-gray-500">
         <p>
-          2025 {{ site.name }} •
-          <a href="/feed.xml" class="hover:text-blue-600">RSS</a> •
+          2026 {{ site.name }} •
           Code: <a href="https://opensource.org/license/mit" target="_blank" rel="noopener" class="hover:text-blue-600">MIT</a> •
           Content: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener" class="hover:text-blue-600">CC BY-NC-SA 4.0</a>
         </p>

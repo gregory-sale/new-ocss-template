@@ -89,8 +89,8 @@ class EasterEggs {
     let clickCount = 0;
     let resetTimer;
     
-    // Use a more specific selector that won't interfere with navigation
-    const logo = document.querySelector('header h1 a, header .site-title a');
+    // Use the large logo on the homepage
+    const logo = document.getElementById('homepage-main-logo');
     
     if (logo) {
       logo.addEventListener('click', (e) => {
@@ -130,7 +130,7 @@ class EasterEggs {
 
   setupTypingEasterEgg() {
     let typedSequence = '';
-    const secretWord = 'blog';
+    const secretWord = 'ocss';
     
     document.addEventListener('keypress', (e) => {
       typedSequence += e.key.toLowerCase();

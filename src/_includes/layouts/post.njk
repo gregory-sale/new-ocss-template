@@ -71,10 +71,13 @@ layout: layouts/base.njk
   </div>
   {% endif %}
 
+{# 
   <section class="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
     {% include "partials/share-links.njk" %}
   </section>
+#}
 
+{# 
   <section class="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
     <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-6">
       <div class="flex items-start space-x-4">
@@ -90,8 +93,10 @@ layout: layouts/base.njk
       </div>
     </div>
   </section>
+#}
 
   <section class="mt-8">
+{# 
     {% if site.bio.long %}
     <div class="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-6 mb-8">
       <h3 class="text-lg font-semibold mb-2">About {{ site.author }}</h3>
@@ -100,6 +105,7 @@ layout: layouts/base.njk
       </p>
     </div>
     {% endif %}
+#}
     {% if site.newsletter.enabled %}
     <div class="bg-blue-50 dark:bg-blue-900/20 rounded-lg p-6 text-center">
       <h3 class="font-semibold text-lg mb-2">{{ site.newsletter.title }}</h3>
@@ -114,6 +120,7 @@ layout: layouts/base.njk
 
   {% include "partials/related-posts.njk" %}
 
+{# 
   <section id="webmentions" class="mt-12">
     <h2 class="text-xl font-semibold mb-4">Responses</h2>
     <div id="webmentions-list">
@@ -122,4 +129,5 @@ layout: layouts/base.njk
       </div>
     </div>
   </section>
+#}
 </article>
