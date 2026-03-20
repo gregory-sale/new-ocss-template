@@ -7,11 +7,11 @@ layout: layouts/base.njk
 {% set isNews = (not isClubInfo) and (not isHistory) and ('/news/' in postUrl) %}
 
 {% if isClubInfo %}
-<a href="/club-info/" class="inline-flex items-center text-blue-600 hover:text-blue-800 mb-3">
+<a href="/info/" class="inline-flex items-center text-blue-600 hover:text-blue-800 mb-3">
   ← Back to Club Info
 </a>
 {% elif isHistory %}
-<a href="/ocss-history/" class="inline-flex items-center text-blue-600 hover:text-blue-800 mb-3">
+<a href="/history/" class="inline-flex items-center text-blue-600 hover:text-blue-800 mb-3">
   ← Back to OCSS History
 </a>
 {% elif isNews %}
@@ -25,9 +25,9 @@ layout: layouts/base.njk
     <li><a href="/" class="hover:text-blue-600">Home</a></li>
     <li><span aria-hidden="true">›</span></li>
     {% if isClubInfo %}
-      <li><a href="/club-info/" class="hover:text-blue-600">Club Info</a></li>
+      <li><a href="/info/" class="hover:text-blue-600">Club Info</a></li>
     {% elif isHistory %}
-      <li><a href="/ocss-history/" class="hover:text-blue-600">OCSS History</a></li>
+      <li><a href="/history/" class="hover:text-blue-600">OCSS History</a></li>
     {% elif isNews %}
       <li><a href="/news/" class="hover:text-blue-600">News</a></li>
     {% endif %}

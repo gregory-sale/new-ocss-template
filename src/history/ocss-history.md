@@ -7,7 +7,7 @@ tags: ["history"]
 
 ### Founding and O&CSS History – Summary
 
-[Stewart Morris](https://en.wikipedia.org/wiki/Stewart_Morris) (Trinity, Cambridge 1927, Wiki link), later to be an Olympic Gold Medalist, was the prime mover in the founding of the O&CSS in 1934. You can purchase an excellent history of the O&CSS – see the [Merchandise](/info/2018-06-20-merchandise/) page for details.
+[Stewart Morris](https://en.wikipedia.org/wiki/Stewart_Morris) (Trinity, Cambridge 1927, Wiki link), later to be an Olympic Gold Medalist, was the prime mover in the founding of the O&CSS in 1934. You can purchase an excellent history of the O&CSS – see the [Merchandise](/info/merchandise/) page for details.
 
 The Society maintains a page on [Wikipedia](https://en.wikipedia.org/wiki/Oxford_%26_Cambridge_Sailing_Society) giving a brief account of its history, details of members' Olympic participation, and details of members' World Team Racing Championships participation. Wikipedia also has a good article on the history of [team racing](https://en.wikipedia.org/wiki/Team_racing).
 

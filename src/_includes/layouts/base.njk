@@ -221,8 +221,8 @@
       {% set url = page.url or '/' %}
       {% set isHome = url == '/' %}
       {% set isBlog = (url and (url | slice(0, 6) == '/news/')) %}
-      {% set isAbout = url == '/club-info/' %}
-      {% set isUses = url == '/ocss-history/' %}
+      {% set isAbout = url == '/info/' %}
+      {% set isUses = url == '/history/' %}
       {% set isContact = url == '/contact/' %}
       <ul class="flex flex-col md:flex-row text-base md:text-sm space-y-3 md:space-y-0 md:space-x-6">
         <li>
@@ -234,11 +234,11 @@
              {% if isBlog %}aria-current="page"{% endif %}>📰 News</a>
         </li>
         <li>
-          <a href="/club-info/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isAbout %}underline font-semibold{% endif %}"
+          <a href="/info/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isAbout %}underline font-semibold{% endif %}"
              {% if isAbout %}aria-current="page"{% endif %}>ℹ️ Club Info</a>
         </li>
         <li>
-          <a href="/ocss-history/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isUses %}underline font-semibold{% endif %}"
+          <a href="/history/" class="nav-item block py-2 text-purple-600 dark:text-purple-400 {% if isUses %}underline font-semibold{% endif %}"
              {% if isUses %}aria-current="page"{% endif %}>📜 OCSS History</a>
         </li>
 {#

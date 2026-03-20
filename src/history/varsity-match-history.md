@@ -15,7 +15,7 @@ This page presents a complete set of Oxford Cambridge sailing Varsity Match hist
 
 Later Oxford Cambridge Sailing Varsity Match History
 
-The First World War interrupted the series from 1915 to 1919, and the 1940 Match planned for Oulton Broad was cancelled due to the Second World War. A clip of the 1928 Match at Weymouth is the first item on the [Video History](/history/2018-06-13-historic-ocss-videos/) page of this website. The [Yule Oldham](https://en.wikipedia.org/wiki/Henry_Yule_Oldham) (Wiki link) Cup for the Open Varsity Match dates from 1928, because the previous (Spender) cup had been lost. Often dinghies and sometimes two boats a side were used in the early matches, until the mid-1930’s. Since that time, apart from World War II, the match has been three boats a side at a coastal location. The match has been in keel boats consistently since the 1950’s, and nine-man teams started in 1978.
+The First World War interrupted the series from 1915 to 1919, and the 1940 Match planned for Oulton Broad was cancelled due to the Second World War. A clip of the 1928 Match at Weymouth is the first item on the [Video History](/history/historic-ocss-videos/) page of this website. The [Yule Oldham](https://en.wikipedia.org/wiki/Henry_Yule_Oldham) (Wiki link) Cup for the Open Varsity Match dates from 1928, because the previous (Spender) cup had been lost. Often dinghies and sometimes two boats a side were used in the early matches, until the mid-1930’s. Since that time, apart from World War II, the match has been three boats a side at a coastal location. The match has been in keel boats consistently since the 1950’s, and nine-man teams started in 1978.
 
 Blues Status
 

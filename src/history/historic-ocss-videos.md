@@ -30,7 +30,7 @@ The following two clips cover the April 1984 Jubilee Invitation Team Racing even
 
 In the prize-giving clip below (NO SOUND!), Stewart Morris, then Secretary Davis Hare, organisers Chris Pugh and Andrew Hattersley, and a tankard intended for each competitor are prominent. John Redding (Nottingham Outlaws – nearest the camera) and Chris Atkins (Granchester Flash – second from camera) are also in the clip. They are making a joint winners speech, half a sentence each at a time. This was because a supposedly vital protest to decide the winner was still running.
 
-First Flash (Chris Atkins, Will Henderson, Roger Yeoman) and then Outlaws (Jon Redding, Charles Stanley, Nigel Allso?) were declared the winners (but no trophy!), because of wrong scoring. Page 56 of [Jeremy Atkins’ history of the Society](/info/2018-06-20-merchandise/) records the details of this confusion.
+First Flash (Chris Atkins, Will Henderson, Roger Yeoman) and then Outlaws (Jon Redding, Charles Stanley, Nigel Allso?) were declared the winners (but no trophy!), because of wrong scoring. Page 56 of [Jeremy Atkins’ history of the Society](/info/merchandise/) records the details of this confusion.
 
 <video width="100%" controls preload="metadata" class="rounded-lg shadow-lg">
   <source src="/assets/videos/1984PrizesHD_x264.mp4" type="video/mp4">
