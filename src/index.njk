@@ -36,7 +36,7 @@ title: "Home"
       ✍️ Recent Posts
     </h2>
 
-    {% set recent = collections.posts | default([]) %}
+    {% set recent = collections.newsPosts | default([]) %}
     {% if (recent | length) == 0 %}
       {% set recent = collections.searchIndex | default([]) %}
     {% endif %}

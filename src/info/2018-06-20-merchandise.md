@@ -11,7 +11,7 @@ In view of the greatly reduced demand for Society ties and the substantial size 
 
 ![](/assets/images/info/1773872645615-SocietyBurgee.gif)
 
-A few Society burgees remain. The price is £8 (£10 overseas) from the [Hon Treasurer](mailto:treasurer@ocss.org.uk?subject=OCSS%20Burgee%20Wanted)\[email-link\]. Please specify the address to which you would like the burgee delivered. Payment details will be sent once you have made your order.
+No burgees remain. Please contact the [Hon Treasurer](mailto:treasurer@ocss.org.uk?subject=OCSS%20Burgee%20Wanted) if you would like to be added to the waiting list.
 
 History of the Society
 

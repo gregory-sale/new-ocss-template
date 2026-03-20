@@ -13,7 +13,10 @@ This page displays a selection of historic O&CSS videos. The first short clip is
 
 The two-minute clip was produced by editing a five-minute Pathé News clip that contained quite a lot of repetitive material. Some of the original audio comments were inaccurate, so the clip incorporates a new commentary. This new commentary incorrectly states that the order of appearance of the teams is not known, and that there is a minder in each boat. The start of the clip shows the Oxford team first (names unknown) and Cambridge second (G C Tozer, F P Usborne, O A Jones, P A Tritton, P M Munroe, S H Morris). The racing was two boats a side and three undergraduates crewed in each of the two boats – taking their turn at helming over the six races. In 1930 the match standardised on three boats a side. In 1937 the ‘9¼, 8, etc.’ points system was adopted. From 1961 races won rather than overall points have decided the result.
 
-\[embed width="540" height="442"\]https://www.ocss.org.uk/wp-content/uploads/video/1928Varsity\_x264.mp4\[/embed\]
+<video width="100%" controls preload="metadata" class="rounded-lg shadow-lg">
+  <source src="/assets/videos/1928Varsity_x264.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### How to Control the Video Players
 
@@ -27,30 +30,45 @@ The following two clips cover the April 1984 Jubilee Invitation Team Racing even
 
 In the prize-giving clip below (NO SOUND!), Stewart Morris, then Secretary Davis Hare, organisers Chris Pugh and Andrew Hattersley, and a tankard intended for each competitor are prominent. John Redding (Nottingham Outlaws – nearest the camera) and Chris Atkins (Granchester Flash – second from camera) are also in the clip. They are making a joint winners speech, half a sentence each at a time. This was because a supposedly vital protest to decide the winner was still running.
 
-First Flash (Chris Atkins, Will Henderson, Roger Yeoman) and then Outlaws (Jon Redding, Charles Stanley, Nigel Allso?) were declared the winners (but no trophy!), because of wrong scoring. Page 56 of [Jeremy Atkins’ history of the Society](https://www.ocss.org.uk/?page_id=262) records the details of this confusion.
+First Flash (Chris Atkins, Will Henderson, Roger Yeoman) and then Outlaws (Jon Redding, Charles Stanley, Nigel Allso?) were declared the winners (but no trophy!), because of wrong scoring. Page 56 of [Jeremy Atkins’ history of the Society](/info/2018-06-20-merchandise/) records the details of this confusion.
 
-\[embed width="720" height="576"\]https://www.ocss.org.uk/wp-content/uploads/video/1984PrizesHD\_x264.mp4\[/embed\]
+<video width="100%" controls preload="metadata" class="rounded-lg shadow-lg">
+  <source src="/assets/videos/1984PrizesHD_x264.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Interview With Stewart Morris
 
 Stewart Morris is interviewed in this clip, at the 1984 Jubilee Event. He reflects on the evolution of team racing in the UK – up to the early 1980’s.
 
-\[embed width="544" height="416"\]https://www.ocss.org.uk/wp-content/uploads/video/1984SHMorris\_x264.mp4\[/embed\]
+<video width="100%" controls preload="metadata" class="rounded-lg shadow-lg">
+  <source src="/assets/videos/1984SHMorris_x264.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 2010 Annual Dinner
 
 This clip shows scenes from the 2010 dinner in the Naval Club, London. The dinner now takes place in Oxford after the annual Generations Event.
 
-\[embed width="540" height="405"\]https://www.ocss.org.uk/wp-content/uploads/video/2010Dinner\_x264.mp4\[/embed\]
+<video width="100%" controls preload="metadata" class="rounded-lg shadow-lg">
+  <source src="/assets/videos/2010Dinner_x264.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Generations Winner Presentation
 
 This clip shows the presentation of the Bell Trophy for the Generations Event to the winning Oxford Current Students team at the Annual Dinner in Kellogg College, Oxford on 29th September 2018.
 
-\[embed width="720" height="540"\]https://www.ocss.org.uk/wp-content/uploads/video/2018GenPresent\_x264.mp4\[/embed\]
+<video width="100%" controls preload="metadata" class="rounded-lg shadow-lg">
+  <source src="/assets/videos/2018GenPresent_x264.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Loving Cup Ceremony
 
 This final clip shows the progress of the Society’s Loving Cup Ceremony at the Annual Dinner in Kellog College, Oxford on 29th September 2018. Note the second participant encourging the first to sit down – so that (correctly) there are only three people on their feet at any one time.
 
-\[embed width="720" height="540"\]https://www.ocss.org.uk/wp-content/uploads/video/2018LovingCup\_x264.mp4\[/embed\]
+<video width="100%" controls preload="metadata" class="rounded-lg shadow-lg">
+  <source src="/assets/videos/2018LovingCup_x264.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>

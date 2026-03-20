@@ -15,7 +15,7 @@ The Society participates in fixtures such as the Oxford Magnum, the Cam Cup, the
 
 The Society sponsors a Generations Event each year at Farmoor on a Saturday at the beginning of the Oxford Michaelmas Term. On the day, Oxford and Cambridge team from each decade, and across decades in extremis, battle it out in Fireflies. The racing uses a legendary and mysterious handicapping system that helps older teams and teams with six helms.
 
-Anyone can enter a team by [contacting the organiser](mailto:genevent@ocss.org.uk?subject=Website%20Enquiry)\[email-link\]. Ladies teams are looked upon with especial favour, so let’s have some action ladies! The Generations event entry fee is modest and the briefing is normally at 9:30am. Breakfast and lunch are available at the Farmoor club and the O&CSS AGM and Dinner follow the event – in Oxford.
+Anyone can enter a team by [contacting the organiser](mailto:genevent@ocss.org.uk?subject=Website%20Enquiry). The Generations event entry fee is modest and the briefing is normally at 9:30am. Breakfast and lunch are available at the Farmoor club and the O&CSS AGM and Dinner follow the event – in Oxford.
 
 ![](/assets/images/info/1773872645619-03Gen17.jpg)
 

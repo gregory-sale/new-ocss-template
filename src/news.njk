@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 pagination:
-  data: collections.posts
+  data: collections.newsPosts
   size: 10
   alias: posts
 permalink: "/news/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}/{% endif %}"

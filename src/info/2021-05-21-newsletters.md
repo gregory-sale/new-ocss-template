@@ -26,7 +26,7 @@ Save the date! Further information to follow - but if you'd like to express your
 \*\*ISC won comprehensively in the first match for the Steward Morris Trophy since 2019. Full report to follow, but the team wanted to extend their thanks to ISC for hosting, organising and providing boats for a fantastic event. We are very keen for future rematches!
 
 **Wilson Trophy**  
-A huge number of O&CSS members were present for the return of the Wilson Trophy. The [Society team](https://www.ocss.org.uk/?p=3648) did very well in the Swiss League, finishing 4th. However they were pipped to the semi-finals by Seneca Motor Boat Club.
+A huge number of O&CSS members were present for the return of the Wilson Trophy. The [Society team](/news/) did very well in the Swiss League, finishing 4th. However they were pipped to the semi-finals by Seneca Motor Boat Club.
 
 Best wishes  
 **\_Gregory Sale  
@@ -38,7 +38,7 @@ Best wishes
 
 ### **Coming Season**
 
-The programme of events is looking more healthy this coming year and some early dates for your diary can be [found on the website](https://www.ocss.org.uk/?page_id=2553).
+The programme of events is looking more healthy this coming year and some early dates for your diary can be [found on the website](/news/).
 
 Two key events to draw your attention to for the first half of the year:
 
@@ -50,7 +50,7 @@ Two key events to draw your attention to for the first half of the year:
 
 ### **Member News**
 
-Congratulations to the OCSS team that took victory at the [Wessex Warmer](https://www.ocss.org.uk/?p=3538) on the 29/30th Jan. Turnout from Oxbridge both past and present was very strong - do follow the link to the gallery put together by Anthony!
+Congratulations to the OCSS team that took victory at the [Wessex Warmer](/news/) on the 29/30th Jan. Turnout from Oxbridge both past and present was very strong - do follow the link to the gallery put together by Anthony!
 
 ### **Webmaster**
 
@@ -144,7 +144,7 @@ Participants' microphones will be muted as a default.  If you wish to speak to 
 **Other Points**  
 This email gives only the briefest of guidance.  If you are not familiar with Zoom, please Google and view the many excellent videos available on YouTube.
 
-P.S. The accounts for the last 18 months are now available on the website: [http://www.ocss.org.uk/?p=2680](http://www.ocss.org.uk/?p=2680) .
+P.S. The accounts for the last 18 months are now available on the website: [/info/](/info/) .
 
 Best wishes, **_Tom_**  
 Tom Low, AGM Moderator  

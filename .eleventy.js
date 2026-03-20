@@ -112,6 +112,12 @@ module.exports = function(eleventyConfig) {
       .sort((a, b) => (a.date > b.date ? -1 : 1));
   });
 
+  eleventyConfig.addCollection("newsPosts", (collectionApi) => {
+    return collectionApi
+      .getFilteredByGlob("src/news/**/*.md")
+      .sort((a, b) => (a.date > b.date ? -1 : 1));
+  });
+
   // Additional content collections
   eleventyConfig.addCollection("notes", (collectionApi) => {
     return collectionApi
