@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Congratulations To Sarah Treseder"
 date: 2019-09-20
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Congratulations to Sarah Treseder (Magdalen, Oxf 1988) on being awarded an OBE for her services to sport in her capacity as CEO of the RYA - in the recent Birthday Honours list.

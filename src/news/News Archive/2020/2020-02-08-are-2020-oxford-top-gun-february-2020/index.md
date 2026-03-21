@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Southampton are 2020 Oxford Top Gun"
 date: 2020-02-08
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Southampton won the 2020 Oxford Top Gun, held at Farmoor on 8 Feb 2020, from a select entry of 8 universities. Cambridge were runners up (losing the tie break with Southampton), Exeter took the Bronze Medal, and Oxford were 4th.

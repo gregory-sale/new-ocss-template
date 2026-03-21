@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Anthony Lunch Receives Rya Award"
 date: 2018-11-16
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Congratulations to Anthony Lunch on his RYA Lifetime Commitment Award. This is in recognition of his long term involvement with Oxford University Yacht Club. He received this most prestigious Royal Yachting Association award from HRH the Princess Royal, President of the RYA. The presentation took place at the organisation’s annual awards ceremony in London on 16 November 2018.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Josh Flack A Helm On Winning Cumberland Cup Team"
 date: 2018-05-14
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Congratulations to Josh Flack (Emmanuel 2010), a helm on the victorious Royal Thames YC team in the Cumberland Cup 2018 held in J80s on Queen Mary Reservoir 8-12th May. The Cumberland Cup is a biennial invitational two-boat team racing competition, with a good spread of international entries (4 x US, 1 x Sweden, 1 x Australia, 1 x UK). Teams consist of eight people – one helm and three crew in each boat. Society interests were additionally represented by the presence of Jo Lucas on the Race Committee.

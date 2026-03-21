@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: "Anthony Lunch 1946 2022"
+title: "Anthony Lunch 1946-2022"
 date: 2022-10-23
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 It is with very great regret that we record the death in Northampton of Anthony Lunch (Mansfield College) on Thursday 20 October 2022. He suffered a short illness of pneumonia and complications.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Well Represented At Wessex Winter Warmer 2024"
 date: 2024-01-31
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The 2024 Wessex Winter Warmer was held, as always, in late January at Spinnaker Sailing Club. The teams were greeted on Saturday morning to a very still lake, so racing was postponed whilst the wind built to 8-10knots around lunch time. Once racing was underway, the OCSS team enjoyed some early wins. A tougher race at the end of the day against the team from St George left OCSS on 7/8 as Saturday drew to a close.

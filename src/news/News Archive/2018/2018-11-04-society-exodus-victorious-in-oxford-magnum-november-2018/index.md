@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Exodus Victorious In Oxford Magnum"
 date: 2018-11-04
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 A Society Exodus team emerged victorious in a excellent Oxford Magnum held at Farmoor 3/4 November 2018, defeating Wessex Exempt 2-1 in the final. The 'official' Society team finished 2nd in the Silver League, just behind Society Exodus, and so missed out on the semi finals. Oxford, spear-headed by Event Organiser Inés Pont Sanchis and supported by all the usual suspects in race organisation and umpiring, ran a flawless Magnum for the 20 competing teams.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford And Cambridge Share Vintage 2021 Generations Event And 2021 Varsity Match Results"
 date: 2021-10-03
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Cambridge 80s triumphed over Cambridge Current 2 in the 2021 Generations Event, with Cambridge retaining the Yule Oldham Varsity Trophy and Oxford the O&CSS Ladies Varsity Salver - at a vintage Generations / 2021 Varsity Match held at Farmoor on Saturday 2nd October. The Varsity match was rescheduled from Royal Harwich in July because of COVID-19.

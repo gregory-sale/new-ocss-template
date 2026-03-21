@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Agm 2019 Minutes"
 date: 2019-10-01
-tags: ["export", "Meeting minutes"]
+tags: ["Meeting minutes"]
 ---
 
 **Minutes of the 79th Annual General Meeting of the Oxford and Cambridge Sailing Society at Kellogg College Oxford on Saturday 28th September  2019, being the 85th Anniversary of the Society**Anthony Butler took the chair and the meeting began at 19.15hrs with 15 members present.

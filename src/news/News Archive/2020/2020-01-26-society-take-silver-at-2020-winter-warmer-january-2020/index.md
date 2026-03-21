@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Take Silver At 2020 Winter Warmer"
 date: 2020-01-26
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Congratulations to the Society team on taking the Silver Medal at the 2020 Winter Warmer held 25/26 January 2020 at Spinnaker SC. Birdham Bandits were the winners with Cambridge taking Bronze – ahead of consistent foes Exeter. Oxford performed strongly to finish top of the Silver League.

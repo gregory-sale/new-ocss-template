@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford Make Clean Sweep Of Windsurfing Varsity Matches"
 date: 2018-05-05
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Oxford struck back after a period of recent Cambridge domination to win both the Blues and Seconds Oxford Cambridge Windsurfing Varsity Matches 2018 held at Farmoor on Saturday 5th May. It was a perfect early summer day, but the wind unfortunately absented itself for much of the afternoon. In spite of that, and helped somewhat by Cambridge being a man short on each team, Oxford Blues and Seconds scored decisive victories.

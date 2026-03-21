@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Exeter Blue Win The 2023 Cam Cup"
 date: 2023-03-16
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The 2023 Cam Cup saw 20 teams compete in perfect team racing conditions at Grafham over the first weekend of March. After 80 HLS races were completed on the Saturday, the competitors moved to the fine establishment of Revolutions in Cambridge for the traditional black tie dinner, where a jolly time was had by all.

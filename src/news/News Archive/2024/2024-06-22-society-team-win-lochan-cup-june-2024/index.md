@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Team Win Lochan Cup"
 date: 2024-06-22
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 A team representing the Society were victorious at the Lochan Cup hosted at Queen Mary by Royal Thames on the 15-16 June. Both helms and a selection of their crew were Society members.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford 70s Take Generations By A Single Point"
 date: 2019-09-29
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Oxford 70s team defeated the Cambridge 70s team by a single point in the 2019 Generations Event held at Farmoor on Saturday 28 September 2019.

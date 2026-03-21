@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Cambridge Take Both Varsity Matches"
 date: 2018-07-09
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Cambridge won both Mixed and Ladies Oxford Cambridge team racing Varsity Matches 2018 held at Weymouth in the National Sailing Academy's Elliot 6M boats on 6-8 July. The outcome of the Mixed Varsity Match was as expected, with Cambridge fielding a strong team drawn from their BUSA successes. As a result, the score was 4-0 in their favour.

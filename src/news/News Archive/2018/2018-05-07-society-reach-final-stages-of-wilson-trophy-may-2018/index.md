@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Reach Final Stages Of Wilson Trophy"
 date: 2018-05-07
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Society fought their way through to the the quarter finals of the Wilson Trophy 2018, held at West Kirby on 4-6th May. There they made their exit to US team Yale Corinthians. A team with two Society helms (John Platts-Mills and Pete Gray) made it through to the semi finals. There they made their exit to eventual winners, West Kirby Hawks.

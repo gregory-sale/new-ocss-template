@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford Current Victorious At Generations Event"
 date: 2018-09-30
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The current Oxford student team emerged victorious in the annual Generations Event held at Farmoor on Saturday 29th September 2018, from a field of 9 entries. Oxford 70s finished a close second. It was a delightful warm and sunny September day, but the wind did not appear until lunchtime. Although proving shifty, a fair wind then held until late afternoon, enabling most teams to sail 5 good races.

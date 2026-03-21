@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "90th Anniversary Dinner"
 date: 2024-05-07
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Princess of Wales Pub in Primrose Hill hosted the Society's 90th Anniversary Dinner on the last Friday of April. Following feedback over recent years, this was a more relaxed setting than previous dinners which was well received by those attending.

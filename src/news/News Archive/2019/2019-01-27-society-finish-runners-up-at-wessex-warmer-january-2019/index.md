@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Finish Runners Up At Wessex Warmer"
 date: 2019-01-27
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Society finished runners-up to West Kirby Hawks by 1 race to 2 in a restricted Wessex Warmer 2019 held at Spinnaker SC 26/27 January 2019. Exeter was top university (5th) after a tie-break with Cambridge (6th) went in Exeter's favour.

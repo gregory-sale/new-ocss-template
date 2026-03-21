@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Cambridge Take Silver At Busa Yachting 2019 Apr 2019"
 date: 2019-04-18
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Cambridge took Silver in the Trophy Fleet at BUSA Yachting 2019 held 15-18 April 2019 at Port Solent, Portsmouth. Bristol took Gold in the 14-strong fleet, with Oxford Blue just nudged into 4th place by Southampton Red. Congratulations to both University teams on a great performance!

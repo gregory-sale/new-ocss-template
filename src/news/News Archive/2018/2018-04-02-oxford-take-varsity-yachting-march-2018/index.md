@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford Take Varsity Yachting"
 date: 2018-04-02
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Oxford won the Oxford Cambridge Yachting Varsity Match 2018, sailed in Sunsail F40's on 24/25 March at Port Solent as part of the Sunsail Weekend Series. They further emphasised their superiority by winning the Trophy (2nd) Fleet competition at the BUCS/BUSA Yachting Championships, sailed 26-29 March at Port Solent.

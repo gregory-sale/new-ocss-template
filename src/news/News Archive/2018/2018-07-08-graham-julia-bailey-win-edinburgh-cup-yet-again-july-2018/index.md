@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Graham Julia Bailey Win Edinburgh Cup Yet Again"
 date: 2018-07-08
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Congratulations to Graham and Julia Bailey on their victory in their Dragon Aimee in the Edinburgh Cup 2018, held at Torbay 3-6 July. They also won the Corinthian Trophy.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Successful Winter Warmer"
 date: 2022-01-30
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Society ran out winners of the 2022 Winter Warmer held at Spinnaker SC 29/20 January 2022, beating Exeter Blue 2-0 in the final. Cindies SC beat Rutland Raiders 2-0 in the petit final to take the bronze medal.

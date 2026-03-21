@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Itchenor Sc Win Stewart Morris Trophy Again"
 date: 2023-08-28
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The annual Stewart Morris trophy team racing match between Society and Itchenor SC took place on Sunday 4 June in the most incredible champagne sailing conditions in Chichester Harbour. This was a particularly special edition of the decades old annual event, as this year is the 75th anniversary of Stewart Morris’s Olympic Gold medal win in his Swallow “Swift”. His Olympic achievement and that of founding the Society are suitably recorded on the trophy.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Spring Drinks Party"
 date: 2018-03-23
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 A very enjoyable O&CSS drinks party 2018 took place in the O&C Club, Pall Mall on Thursday 23 March 2018. A 'full house' turnout of OUYC, CUCrC, and CUYC alumni as well as Society members enjoyed the networking opportunities afforded, and the excellent address given by Volvo Ocean Race winner Ian Walker.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Itchenor Sc Retain Stewart Morris Trophy Again"
 date: 2022-07-14
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The 29th May saw the 2022 Itchenor SC vs. OCSS match sailed in Swallows. This year’s OCSS team consisted of 6 (mostly recent) Cambridge alumni. Coffee was poured alongside a leisurely morning briefing as we all got to know each other, and we took to the water for the first 3 races as the breeze gently filled in. From the first start, it was clear that the Itchenor team’s local and Swallow-specific knowledge would be pitted against the Society team’s desire to team race whenever possible.

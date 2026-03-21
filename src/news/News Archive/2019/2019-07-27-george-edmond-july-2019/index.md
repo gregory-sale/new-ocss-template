@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "George Edmond"
 date: 2019-07-27
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 It is with great regret that we record the death of George Edmond (Caius 1954) in February of this year - in Western Australia where he spent his later life. George sailed on the winning Cambridge team of 1955, captained the winning team in 1956, and was elected a member of the Society in 1957.

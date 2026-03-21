@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: "Ken Merron 1944 2024"
+title: "Ken Merron 1944-2024"
 date: 2024-02-28
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Ken Merron died suddenly on Sunday 4th February, on his way to singing in the choir at St Nicholas Church. Born in 1944, Ken grew up sailing on the Thames and captained the Oxford University sailing team in 1963-1964. He built his first International 14 'Zuleika' in the university holidays, which he raced at Itchenor and London Corinthian, transported on the roof of his Mini to avoid speeding fines. In his early 20s, he was a regular I14 competitor at ISC and a member of the victorious British team at the 1969 I14 World Championships in Canada, captained by Mike Peacock.

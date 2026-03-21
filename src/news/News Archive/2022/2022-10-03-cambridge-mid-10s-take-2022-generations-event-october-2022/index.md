@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Cambridge Mid 10s Take 2022 Generations Event"
 date: 2022-10-03
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 A Cambridge Mid-10s team ran out winners in the 2022 Generations event held at Farmoor on 1 October 2022 - defeating Oxford 90s in the final. It was a great day for sailing with sunshine and good (though sometimes gusty) winds, and all 9 teams entered thoroughly enjoyed the day. Prizes, generously donated by Salcombe Gin yet again, were a feature of the event.

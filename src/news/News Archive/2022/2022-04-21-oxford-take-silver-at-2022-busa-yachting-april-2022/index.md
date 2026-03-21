@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford Take Silver At 2022 Busa Yachting"
 date: 2022-04-21
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Congratulations to Oxford Blue on finishing 2nd in the 2022 BUSA Yachting Championships held on the Solent 11-14 April 2022. Plymouth were the winners, with Exeter taking Bronze. Cambridge finished 7th and Oxford White 13th - out of the 15-strong entry.

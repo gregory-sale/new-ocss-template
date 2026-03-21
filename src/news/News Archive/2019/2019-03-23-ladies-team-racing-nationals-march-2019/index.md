@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Ladies Team Racing Nationals"
 date: 2019-03-23
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Oxford won the double crown of the RYA and BUSA Womens National Team Racing Championships 2019 held at Spinnaker SC 23/24 March 2019. Cambridge were runners-up and EmRobsSmashMob took 3rd place. UCD (University College Dublin) won the Silver League and a combined Oxford-Cambridge team made their debut by winning the Bronze League.

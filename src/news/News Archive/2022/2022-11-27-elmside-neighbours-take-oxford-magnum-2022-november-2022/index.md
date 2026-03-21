@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Elmside Neighbours Take Oxford Magnum 2022"
 date: 2022-11-27
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Elmside Neighbours ran out winners of the Oxford Magnum 2022 held at Farmoor on 26/27 November 2022. Royal Thames White took a special 'runners-up' prize by being unbeaten in Sunday's racing.

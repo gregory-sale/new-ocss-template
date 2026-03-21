@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Honours Shared At Itchenor Swallow Match"
 date: 2018-05-21
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Society and Itchenor drew 3-3 in the annual Itchenor Swallow match 2018 for the Stewart Morris Trophy held at Itchenor SC on Sunday 20th May. The match was held in sunny weather, as always, but we were met with limited wind and a big flood tide. A strong team with great experience and significant maturity had been assembled, augmented by an injection of youth. We were led on the water by our current President and were determined to reverse last year’s defeat. The home team itself was half comprised of Society members.

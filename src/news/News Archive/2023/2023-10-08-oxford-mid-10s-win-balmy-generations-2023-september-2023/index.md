@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford Mid 10s Win Balmy Generations 2023"
 date: 2023-10-08
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 2023's Annual O&CSS Generations Event saw good attendance with 9 teams, including Oxford '70s, Oxford '90s, Oxford Mid-10s, Cambridge Mid-10s, and a number of younger teams.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Ross Coles"
 date: 2018-01-29
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 It is with great regret that we have learned of the death, in December 2017, of Ross Coles (initials R R A). Ross was the son of the well-known yachting publisher, Adlard Coles. He went up to Clare in 1946 to read medicine and sailed on the winning 1948 Cambridge team. He captained the losing 1949 team and was elected a member of the Society in 1950.

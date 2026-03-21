@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Honours Shared At 2020 Varsity Match"
 date: 2020-09-19
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Cambridge won the Open Event 8-3 and Oxford the Women's Event 4-1 at the 2020 Varsity Match held at Oxford SC, Farmoor on Saturday 19 September 2020 in Fireflies. Conditions were excellent, with sunshine and a brisk breeze that delivered hard-to-handle gusts and challenging changes of direction.

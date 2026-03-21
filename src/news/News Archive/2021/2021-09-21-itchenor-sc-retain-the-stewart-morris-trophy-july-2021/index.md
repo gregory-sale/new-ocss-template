@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Itchenor Sc Retain The Stewart Morris Trophy"
 date: 2021-09-21
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The annual match between the Society and Itchenor 2021 in Swallow keelboats resumed this year on 18 July 2021 after last year’s pandemic disruption.  As ever, it was a competitive and convivial event allowing Society members to relive the experience of team racing the Swallows on Chichester harbour and enjoy the Itchenor hospitality that so many of us will remember fondly from our Varsity Match days.

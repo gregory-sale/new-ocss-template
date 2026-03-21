@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "John Clay"
 date: 2018-03-04
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 It is with great regret that we have learned of the death of John Clay (Magdalen, Oxford 1948) who passed away peacefully on Saturday 17th February in Winchester, aged 90. Always a keen sailor and supporter of the Society, John was Treasurer from 1962 to 1971 and President from 1973 to 1975.

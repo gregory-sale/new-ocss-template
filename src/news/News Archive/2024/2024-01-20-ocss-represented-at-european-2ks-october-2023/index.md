@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "OCSS Represented At European 2ks"
 date: 2024-01-20
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Society were represented at two 2K Team Racing events in October 2023.

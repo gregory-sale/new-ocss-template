@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Cambridge Take Yachting Varsity 2019"
 date: 2019-04-14
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Cambridge won the Yachting Varsity 2019 match held as part of the Sunsail F40 weekend series at Port Solent 13/14 April 2019. The outcome was closely fought over the 7 Sunsail races, with Oxford showing great determination to hold on to the Queenborough Cup that they won last year. In the end, however, Cambridge prevailed by a single point to take the trophy. Team details follow the photographs below - congratulations to both teams on a great performance!

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Richard Thompson Honoured By Rya"
 date: 2021-11-28
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Congratulations to Richard Thompson (Selwyn 1961) on being honoured in the 2021 RYA Volunteer Awards. Richard will be well known to many recent students for his regular umpiring of Varsity Matches and other events. Some details from the RYA citation follow.

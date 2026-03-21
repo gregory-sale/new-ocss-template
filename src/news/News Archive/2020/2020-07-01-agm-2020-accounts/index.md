@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Agm 2020 Accounts"
 date: 2020-07-01
-tags: ["Meeting minutes", "export"]
+tags: ["Meeting minutes"]
 ---
 
 **Notes to the Accounts**

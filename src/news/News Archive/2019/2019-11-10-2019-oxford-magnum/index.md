@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "2019 Oxford Magnum"
 date: 2019-11-10
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 CSC proved victorious the 2019 Oxford Magnum, held at Farmoor Reservoir 9/10 November 2019.   Fading wind resulted in a 'sudden death' one-race final, with CSC overcoming Royal Thames Blue.   Cambridge Blue overcame Royal Thames Red - in a similar petit final - to take the Bronze Medal. The Society finished 5th in the Gold League - missing out on the semi finals by just one tie-break point.

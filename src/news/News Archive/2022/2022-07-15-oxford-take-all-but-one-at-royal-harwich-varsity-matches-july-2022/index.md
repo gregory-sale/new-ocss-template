@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford Take All But One At Royal Harwich Varsity Matches"
 date: 2022-07-15
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The 2022 Varsity Match made a welcome return to its normal format with a full complement of matches taking place at Royal Harwich YC in Ajax 23s during 13-15 July 2022. Cambridge retained the main Open Team Racing trophy for the 10th year running, but Oxford proved victorious in all the other events. Brief results and some pictures can be found below .

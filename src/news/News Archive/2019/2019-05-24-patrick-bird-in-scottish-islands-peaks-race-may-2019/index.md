@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Patrick Bird In Scottish Islands Peaks Race"
 date: 2019-05-24
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Congratulations to President Patrick Bird, Virginia Bird, and their team of sailors and international runners on finishing 7th out of 40 entrants in the annual (and very tough) Scottish Islands Peaks Race held 19/21 May 2019.

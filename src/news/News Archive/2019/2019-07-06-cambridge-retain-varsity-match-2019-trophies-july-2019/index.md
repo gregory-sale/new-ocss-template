@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Cambridge Retain Varsity Match 2019 Trophies"
 date: 2019-07-06
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 In a very well run and enjoyable Varsity Match 2019 at Aldeburgh YC 3-5 July 2019 in Loch Longs, Cambridge retained all four Varsity Match trophies. They won the first strings match racing 4-0, the second strings match racing 3-1, the Ladies team racing 4-0, and the Mixed team racing 4-0.

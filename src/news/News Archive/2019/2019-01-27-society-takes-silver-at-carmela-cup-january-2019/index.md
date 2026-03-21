@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Takes Silver At Carmela Cup"
 date: 2019-01-27
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Society finished runners up at the Carmela Cup 2019 two-boat team racing event organised by Royal Thames at Queen Mary SC 19/20th January 2019 in J/80's. Eight teams were invited to participate and the Royal Thames proved worthy winners. Detailed results will be available for a time on [kSail](http://events.ksail.co.uk/2019/CarmelaCup/).

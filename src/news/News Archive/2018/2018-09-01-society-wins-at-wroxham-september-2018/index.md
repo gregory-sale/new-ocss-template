@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Wins At Wroxham"
 date: 2018-09-01
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 In a hard-fought but very sporting contest at Wroxham in White Boats 2018 on Saturday 1 September, the Society defeated the NBYC by 3 races to 2. Our correspondent and team captain George Harston reports:

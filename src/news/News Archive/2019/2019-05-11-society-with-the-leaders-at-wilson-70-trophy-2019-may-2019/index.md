@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society With The Leaders At Wilson 70 Trophy 2019"
 date: 2019-05-11
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The Society finished 3rd overall in the 18-round Swiss League at the Wilson 70 Trophy 2019 held at West Kirby, Wirral 10-12th May 2019. In the quarter finals they went out 2-0 to a strong Days of Thunder (USA) team – several times previous finalists. Congratulations to the team on a great performance in a top-flight event! Overall winner was East Coast Drifters (USA). Cambridge Blue finished 10th, Royal Thames Blue 15th, and Society Exodus 16th.

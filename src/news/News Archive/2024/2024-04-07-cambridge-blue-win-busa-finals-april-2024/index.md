@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Cambridge Blue Win Busa Finals"
 date: 2024-04-07
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 BUSA Finals 2024 was hosted by Cambridge University Cruising Club at Grafham Water SC on 2-4 April 2024. Following Qualifiers and Playoffs, 2 Cambridge teams and 1 Oxford team were competing. The event used 5 fantastic flights of fireflies, including 2 from Cambridge, and 2 from Oxford (including their new Ovington flight!) Overall, the winds were lighter than last year, and the weather was sunnier!

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford Break Cambridges Mixed Varsity Streak"
 date: 2023-08-28
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 July 2023 saw the annual Match and Team Racing Varsity matches held out of Island SC, Cowes in their fleet of Sonars.

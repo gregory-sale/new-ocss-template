@@ -62,7 +62,7 @@ title: "Home"
           {% endif %}
           {% if desc %}
           <p class="p-summary text-gray-700 dark:text-gray-300 mb-3 leading-relaxed">
-            {{ desc }}
+            {{ desc | safe }}
           </p>
           {% endif %}
           {% if tags %}

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Oxford And Cambridge See Great Success At 2023 Busa"
 date: 2023-05-01
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 Oxford and Cambridge each qualified two teams to 2023's BUSA Finals which was hosted by CUCrC at Grafham on 11-13 April. Both competitors and event officials were met with a challenging set of conditions across the 3 days, and despite a significant AP on Wednesday, each team had completed 12 races in the Swiss stage by the time the competition moved to knockouts on Thursday afternoon.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Society Finally Regain Stewart Morris Trophy From Itchenor Sc"
 date: 2024-06-17
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The first Sunday of June saw the OCSS and Itchenor teams meet at Itchenor for the annual match for the Stewart Morris trophy.

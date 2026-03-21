@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: "Roger Palmer 1942 2024"
+title: "Roger Palmer 1942-2024"
 date: 2024-02-28
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 We regret to announce the passing of OCSS member, Roger, on Friday, 26 January. Roger passed away peacefully at the hospital, with his daughter Helen and wife Barbara by his side, after a year-long decline in health and a recent battle with a chest infection.

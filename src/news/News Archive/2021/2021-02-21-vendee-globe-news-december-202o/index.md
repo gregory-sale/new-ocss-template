@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Vendee Globe News December 202o"
 date: 2021-02-21
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 ### **December 2020 News:**

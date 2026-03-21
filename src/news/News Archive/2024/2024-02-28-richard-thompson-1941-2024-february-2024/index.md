@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: "Richard Thompson 1941 2024"
+title: "Richard Thompson 1941-2024"
 date: 2024-02-28
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 We are sad to tell you the news that Richard Thompson died on Thursday February 1st.

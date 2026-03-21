@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Snow Curtails Uktra Team Racing Championships"
 date: 2018-03-18
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 After a day of good racing on the Saturday, overnight snow coupled with bad weather forced the abandonment of the UKTRA 2018 Team Racing Championships held at Spinnaker SC 17/18 March 2018.

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Nbyc Win Again After Covid Hiatus"
 date: 2022-09-11
-tags: ["News Archive", "export"]
+tags: ["News Archive"]
 ---
 
 The second weekend in September 2022 saw the NBYC-OCSS match return after its COVID imposed hiatus, with the hosts looking to defend their 2019 title. After arriving for a coffee and briefing, it was decided that there would be a single practice race, followed by a sail-all-5 series in loaned YBODs. Lots were drawn and OCSS were to sail in the odd numbers vs. the NBYC team in even numbers. It was clearly going to be shifty and very gusty across the course, with frequent tourist traffic coming through the racing area, but the sun was out and the boats were rigged when we arrived, so it was an easy morning!
