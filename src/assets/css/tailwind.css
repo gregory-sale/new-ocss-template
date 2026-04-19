@@ -112,8 +112,17 @@
 
 
 .prose img {
-  @apply rounded-lg mb-6 shadow-md;
+  @apply rounded-lg mb-2 shadow-md mx-auto max-w-[75%] h-auto block border border-gray-200 dark:border-gray-700;
 }
+
+.prose figure {
+  @apply mb-8 flex flex-col items-center;
+}
+
+.prose figcaption {
+  @apply text-center text-sm text-gray-500 dark:text-gray-400 mt-2 italic px-4;
+}
+
 
 .prose table {
   @apply w-full mb-6 border-collapse;

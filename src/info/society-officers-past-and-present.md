@@ -9,7 +9,7 @@ tags: ["Info"]
 - **President:** Amanda Hampson
 - **Hon Secretary:** Gregory Sale
 - **Hon Treasurer:** Tom Low
-- **Committee:** Hugh Tomkins (Generations), Alex Baxter (Port Administration), Helen Jones (Oxford Liaison), Ewan Gribbin (Cambridge Liaison), Rosie Jones, Mathila Evans, Vincent Geake
+- **Committee:** Hugh Tomkins (Generations), Alex Baxter (Port Administration), Helen Jones (Oxford Liaison), Ewan Gribbin (Cambridge Liaison), Rosie Jones, Matilda Evans, Vincent Geake
 
 ### **Past Officers**
 

@@ -2,7 +2,7 @@
 layout: layouts/post.njk
 title: "Newsletters"
 date: 2021-05-21
-tags: ["info"]
+tags: ["hidden"]
 ---
 
 ### Current Newsletter - June 2022

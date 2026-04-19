@@ -11,15 +11,13 @@ const path = require('path');
 const SITE_DIR = path.join(__dirname, '..', '_site');
 const EXPECTED_FILES = [
   'index.html',
-  'blog/index.html',
-  'about/index.html',
+  'news/index.html',
+  'info/index.html',
   'contact/index.html',
   'sitemap/index.html',
   'search.json',
-  'blog/hello-world/index.html',
-  'blog/markdown-showcase/index.html',
-  'blog/building-indie-web/index.html',
-  'blog/weekend-project/index.html'
+  'info/meeting-minutes-and-accounts/index.html',
+  'info/ocss-committee-duties/index.html'
 ];
 
 const EXPECTED_ASSETS = [
@@ -76,7 +74,7 @@ function runTests() {
       const content = fs.readFileSync(indexPath, 'utf8');
       const hasSectionHeading = content.includes('Recent Posts') || content.includes('✍️');
       const hasEntries = content.includes('h-entry');
-      const hasPostLink = /href="\/blog\//.test(content);
+      const hasPostLink = /href="\/news\//.test(content);
       const ok = (hasSectionHeading || hasPostLink) && hasEntries;
       if (!ok) {
         console.log('DEBUG index.html length:', content.length);
@@ -92,7 +90,10 @@ function runTests() {
   // Test 6: Blog posts have proper microformats
   test('Blog posts have microformats', () => {
     try {
-      const postPath = path.join(SITE_DIR, 'blog/hello-world/index.html');
+      // Find a generated post in the news directory
+      const newsDir = path.join(SITE_DIR, 'news');
+      // For testing, let's just use info/meeting-minutes-and-accounts/index.html which uses post.njk
+      const postPath = path.join(SITE_DIR, 'info/meeting-minutes-and-accounts/index.html');
       if (!fs.existsSync(postPath)) return false;
       
       const content = fs.readFileSync(postPath, 'utf8');

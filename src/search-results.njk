@@ -152,7 +152,7 @@ title: "Search Results"
         // Add documents to search index
         searchIndex.forEach((item, index) => {
           if (item && item.title) {
-            const searchText = `${item.title} ${item.description || ''} ${item.content || ''} ${(item.tags || []).join(' ')}`;
+            const searchText = `${item.title} ${item.description || ''} ${item.author || ''} ${item.content || ''} ${(item.tags || []).join(' ')}`;
             flexSearch.add(index, searchText);
           }
         });

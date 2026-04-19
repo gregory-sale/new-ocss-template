@@ -13,7 +13,7 @@ test.describe('Accessibility', () => {
   });
 
   test('images have alt text', async ({ page }) => {
-    await page.goto('/blog/markdown-showcase/');
+    await page.goto('/news/markdown-showcase/');
     
     // Check that images have alt attributes
     const images = page.locator('img');

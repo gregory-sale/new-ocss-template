@@ -22,21 +22,21 @@ test.describe('Search Functionality', () => {
     const searchResults = page.locator('#search-results');
     await expect(searchResults).toBeVisible();
     
-    // Should find the markdown showcase post
-    await expect(searchResults.locator('a:has-text("Markdown Syntax Showcase")')).toBeVisible();
+    // Should find the markdown showcase post or equivalent
+    await expect(searchResults.locator('a:has-text("Patrick Bird")')).toBeVisible();
   });
 
   test('search works with different terms', async ({ page }) => {
     await page.goto('/');
     await page.waitForTimeout(2000);
     
-    // Test search for "indieweb"
-    await page.fill('#q', 'indieweb');
+    // Test search for "patrick"
+    await page.fill('#q', 'patrick');
     await page.waitForTimeout(1000);
     
     const searchResults = page.locator('#search-results');
     await expect(searchResults).toBeVisible();
-    await expect(searchResults.locator('a:has-text("Building for the Independent Web")')).toBeVisible();
+    await expect(searchResults.locator('a', { hasText: /Patrick Bird/i }).first()).toBeVisible();
   });
 
   test('search shows no results message for invalid queries', async ({ page }) => {
@@ -55,14 +55,14 @@ test.describe('Search Functionality', () => {
     await page.goto('/');
     await page.waitForTimeout(2000);
     
-    await page.fill('#q', 'hello');
+    await page.fill('#q', 'firefly');
     await page.waitForTimeout(1000);
     
     // Click on a search result
-    await page.click('#search-results a:has-text("Hello, World")');
+    await page.click('#search-results a:has-text("Firefly Open")');
     
     // Should navigate to the blog post
-    await expect(page).toHaveURL(/\/blog\/hello-world\//);
-    await expect(page.locator('h1:has-text("Hello, World")')).toBeVisible();
+    await expect(page).toHaveURL(/\/news\//);
+    await expect(page.locator('h1', { hasText: /Firefly Open/i })).toBeVisible();
   });
 });

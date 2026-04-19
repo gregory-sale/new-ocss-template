@@ -17,11 +17,11 @@ test.describe('Sitemap Page', () => {
     await page.goto('/sitemap/');
     
     // Test main page links
-    await page.click('a[href="/about/"]:has-text("👋 About")');
+    await page.click('a[href="/info/"]:has-text("👋 About")');
     await expect(page).toHaveURL(/\/about\//);
     
     await page.goto('/sitemap/');
-    await page.click('a[href="/blog/"]:has-text("✍️ Blog")');
+    await page.click('a[href="/news/"]:has-text("✍️ Blog")');
     await expect(page).toHaveURL(/\/blog\//);
   });
 

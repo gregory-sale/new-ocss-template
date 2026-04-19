@@ -1,7 +1,37 @@
+const markdownIt = require("markdown-it");
 const { DateTime } = require("luxon");
 const tagColors = require("./src/_data/tagColors.json");
 
 module.exports = function(eleventyConfig) {
+  // Markdown configuration to support captions from alt text
+  const markdownLib = markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true
+  }).use(function(md) {
+    // Custom rule to wrap images in <figure> and add <figcaption> if alt text exists
+    const defaultRender = md.renderer.rules.image || function(tokens, idx, options, env, self) {
+      return self.renderToken(tokens, idx, options);
+    };
+
+    md.renderer.rules.image = function(tokens, idx, options, env, self) {
+      const token = tokens[idx];
+      const alt = token.content;
+      const src = token.attrGet('src');
+      const title = token.attrGet('title');
+
+      if (alt) {
+        return `<figure>
+          <img src="${src}" alt="${alt}" ${title ? `title="${title}"` : ''}>
+          <figcaption>${alt}</figcaption>
+        </figure>`;
+      }
+
+      return defaultRender(tokens, idx, options, env, self);
+    };
+  });
+  eleventyConfig.setLibrary("md", markdownLib);
+
   // Filters
   // JSON stringify helper for Nunjucks (used by search.json)
   eleventyConfig.addFilter("json", (value, spaces = 0) => {
@@ -182,6 +212,7 @@ module.exports = function(eleventyConfig) {
       id: p.url,
       title: (p.data && p.data.title) || "",
       description: (p.data && p.data.description) || "",
+      author: (p.data && p.data.author) || "",
       tags: Array.isArray(p.data?.tags) ? p.data.tags : [],
       // Avoid using templateContent here (not available during collection build in Eleventy v3)
       content: "",

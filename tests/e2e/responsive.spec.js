@@ -12,7 +12,7 @@ test.describe('Responsive Design', () => {
 
   test('content is readable on mobile', async ({ page }) => {
     await page.setViewportSize({ width: 375, height: 667 });
-    await page.goto('/blog/markdown-showcase/');
+    await page.goto('/news/markdown-showcase/');
     
     // Check that content doesn't overflow
     const main = page.locator('main');
@@ -29,7 +29,7 @@ test.describe('Responsive Design', () => {
 
   test('images are responsive', async ({ page }) => {
     await page.setViewportSize({ width: 375, height: 667 });
-    await page.goto('/blog/building-indie-web/');
+    await page.goto('/news/building-indie-web/');
     
     // Check that images don't overflow container
     const images = page.locator('img');

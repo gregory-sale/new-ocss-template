@@ -1,0 +1,2 @@
+❌ CSS is minified
+❌ Some tests failed. Check the build output.
