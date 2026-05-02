@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Society Rules And Regulations"
-date: 2011-01-17
+date: 2024-10-05
 tags: ["Info"]
 ---
 
@@ -13,13 +13,13 @@ tags: ["Info"]
 
 **Flag**: The flag of the Society shall be a dark blue flag bearing a lion passant guardant or with a paw resting on a book of rules charged with a cross orb.
 
-**Membership**: Election of all candidates for membership shall be by the Committee. Every candidate shall be proposed and seconded by members of the Society, to both whom the candidate shall be personally known. Both proposer and seconder shall write letters to the Secretary of the Society in support of the candidate. In electing candidates, the Committee is expected to maintain the traditional selective nature of the Society membership.
+**Membership**: Election of all candidates for membership shall be by the Committee. Every candidate shall be proposed and seconded by members of the Society, to both whom the candidate shall be personally known. In electing candidates, the Committee is expected to maintain the traditional selective nature of the Society membership.
 
 Membership shall be confined to present or past members or supporters of the Oxford University Yacht Club and Cambridge University Cruising Club.
 
 **Officers**: The Officers of the Society shall consist of a President, Honorary Secretary, and Honorary Treasurer.
 
-**Committee**: The committee shall consist of the Officers and not less than five or more than eight other members. At all meetings three shall form a quorum. When present, the President shall be the Chairman but in his absence a Chairman shall be elected before any business is transacted. At any meeting, in the event of equal voting, the Chairman shall have the casting vote.
+**Committee**: The committee shall consist of the Officers and not less than five or more than eight other members. At all meetings three shall form a quorum. When present, the President shall be the Chair but in their absence a Chair shall be elected before any business is transacted. At any meeting, in the event of equal voting, the Chair shall have the casting vote.
 
 **Committee Duties**: It shall be the duty of the Committee to manage the affairs of the Society, subject to the approval of the Society at its General Meeting.
 
@@ -27,7 +27,7 @@ Membership shall be confined to present or past members or supporters of the Oxf
 
 One member of the Committee, other than the officers, shall be ineligible for re-election for one year.
 
-At the General Meeting, when present, the President shall be Chairman but in his absence a Chairman shall be elected before any business be transacted.
+At the General Meeting, when present, the President shall be Chair but in their absence a Chair shall be elected before any business be transacted.
 
 **Alteration To Rules**: The rules of the Society shall not be altered except by a two-thirds majority of members present at the Annual General Meeting or at an Extraordinary General Meeting called for the purpose. At such a meeting, not less than twenty members of the Society, present in person, shall constitute a quorum. Two weeks’ notice shall be given to all members of any proposed changes to the rules.
 
@@ -43,4 +43,4 @@ At the General Meeting, when present, the President shall be Chairman but in his
 
 **Virtual Meetings And Virtual Attendance**: The Committee may decide to hold any general meeting via electronic technology, and the President may make the same decision for any committee meeting. The terms ‘present’ and ‘present in person’ used in these rules shall include electronic participation.
 
-*Amended 1 October 2020*
+*Amended 5 October 2024*
