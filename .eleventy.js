@@ -1,6 +1,7 @@
 const markdownIt = require("markdown-it");
 const { DateTime } = require("luxon");
 const tagColors = require("./src/_data/tagColors.json");
+const fs = require("fs");
 
 module.exports = function(eleventyConfig) {
   // Markdown configuration to support captions from alt text
@@ -140,6 +141,44 @@ module.exports = function(eleventyConfig) {
     return collectionApi
       .getFilteredByGlob(["src/news/**/*.md", "src/history/**/*.md", "src/info/**/*.md"])
       .sort((a, b) => (a.date > b.date ? -1 : 1));
+  });
+
+  eleventyConfig.addCollection("allImages", (collectionApi) => {
+    const images = [];
+    collectionApi.getFilteredByGlob(["src/news/**/*.md", "src/history/**/*.md", "src/info/**/*.md"]).forEach((item) => {
+      if (!item.inputPath) return;
+      try {
+        const content = fs.readFileSync(item.inputPath, 'utf8');
+        
+        // Match ![alt](src)
+        const mdRegex = /!\[([^\]]*)\]\(([^)]+)\)/g;
+        let match;
+        while ((match = mdRegex.exec(content)) !== null) {
+          images.push({
+            postUrl: item.url,
+            postTitle: (item.data && item.data.title) || "Post",
+            alt: match[1] || "",
+            src: match[2].trim()
+          });
+        }
+        
+        // Match <img src="..." alt="...">
+        const htmlRegex = /<img[^>]+src="([^">]+)"[^>]*>/gi;
+        let htmlMatch;
+        while ((htmlMatch = htmlRegex.exec(content)) !== null) {
+           const altMatch = htmlMatch[0].match(/alt="([^">]*)"/i);
+           images.push({
+             postUrl: item.url,
+             postTitle: (item.data && item.data.title) || "Post",
+             src: htmlMatch[1].trim(),
+             alt: altMatch ? altMatch[1] : ""
+           });
+        }
+      } catch (err) {
+        console.error("Error reading file for image extraction:", err);
+      }
+    });
+    return images;
   });
 
   eleventyConfig.addCollection("newsPosts", (collectionApi) => {

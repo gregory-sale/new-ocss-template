@@ -5,13 +5,13 @@ title: "Home"
 ---
 <div class="h-feed">
   <!-- Hero Section -->
-  <div class="text-center mb-12 py-8">
+  <div class="text-center mb-6 pt-8 pb-2">
     <img src="/assets/logo.png" alt="{{ site.name }} logo" id="homepage-main-logo" class="h-36 w-auto mx-auto mb-6" />
     <h1 class="p-name text-4xl font-bold mb-4 float-animation">{{ site.name }}</h1>
     <p class="p-summary text-xl text-gray-600 dark:text-gray-400 mb-6">{{ site.description }}</p>
     <a class="u-url hidden" href="{{ site.url }}/"></a>
     
-    <div class="max-w-3xl mx-auto mb-12 text-left">
+    <div class="max-w-3xl mx-auto mb-6 text-left">
       <p class="text-lg leading-relaxed text-gray-800 dark:text-gray-200 font-semibold mb-8">
        
       </p>
@@ -28,6 +28,64 @@ title: "Home"
         <strong>Please submit news of your own and others’ sailing and social activity for publication.</strong> Contact the Webmaster using the link at the very bottom of the sidebar, or the Secretary to get in touch with another member. Any news or photos are welcome. Please also inform us of any changes to your contact details – particularly email address.
       </p>
     </div>
+  </div>
+
+  <!-- Random Photo Showcase -->
+  <div class="mb-12">
+    <h2 class="text-2xl font-semibold mb-4 flex items-center gap-2">
+      📸 Photo Showcase
+    </h2>
+    <div id="photo-carousel" class="flex overflow-x-auto snap-x gap-4 pb-4 scroll-smooth" style="scrollbar-width: none;">
+      <!-- Photos injected by JS -->
+    </div>
+    <!-- Hidden JSON payload -->
+    <script id="carousel-images" type="application/json">
+      {{ collections.allImages | json | safe }}
+    </script>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        try {
+          const rawData = document.getElementById('carousel-images').textContent;
+          const images = JSON.parse(rawData);
+          if (images && images.length > 0) {
+            // Shuffle and pick 15
+            const shuffled = images.sort(() => 0.5 - Math.random());
+            const selected = shuffled.slice(0, 15);
+            
+            const carousel = document.getElementById('photo-carousel');
+            selected.forEach(img => {
+              // Create link wrapper
+              const a = document.createElement('a');
+              a.href = img.postUrl;
+              a.className = "flex-shrink-0 snap-center group block relative overflow-hidden rounded-lg shadow-md";
+              // Fixed dimensions for the images
+              a.style.width = "250px";
+              a.style.height = "200px";
+              
+              // Image
+              const imgEl = document.createElement('img');
+              imgEl.src = img.src;
+              imgEl.alt = img.alt || img.postTitle;
+              imgEl.className = "w-full h-full object-cover transition-transform duration-300 group-hover:scale-105 bg-gray-100 dark:bg-gray-800";
+              
+              // Hover overlay with title
+              const overlay = document.createElement('div');
+              overlay.className = "absolute inset-0 bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center p-4 text-center";
+              const title = document.createElement('span');
+              title.className = "text-white text-sm font-semibold";
+              title.textContent = img.postTitle;
+              
+              overlay.appendChild(title);
+              a.appendChild(imgEl);
+              a.appendChild(overlay);
+              carousel.appendChild(a);
+            });
+          }
+        } catch (e) {
+          console.error("Failed to load carousel images", e);
+        }
+      });
+    </script>
   </div>
 
   <!-- Recent Posts -->
