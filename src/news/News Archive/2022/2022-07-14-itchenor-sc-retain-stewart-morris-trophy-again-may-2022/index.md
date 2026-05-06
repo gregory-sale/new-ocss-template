@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Itchenor Sc Retain Stewart Morris Trophy Again"
+title: "Itchenor SC Retain Stewart Morris Trophy Again"
 date: 2022-07-14
 tags: ["News Archive"]
 ---

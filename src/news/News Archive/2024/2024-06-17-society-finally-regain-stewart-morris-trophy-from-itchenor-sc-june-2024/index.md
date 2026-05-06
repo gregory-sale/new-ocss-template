@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Society Finally Regain Stewart Morris Trophy From Itchenor Sc"
+title: "Society Finally Regain Stewart Morris Trophy From Itchenor SC"
 date: 2024-06-17
 tags: ["News Archive"]
 ---

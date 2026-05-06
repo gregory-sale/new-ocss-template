@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: "Itchenor Sc Win Stewart Morris Trophy Again"
+title: "Itchenor SC Win Stewart Morris Trophy Again"
 date: 2023-08-28
 tags: ["News Archive"]
 ---
